@@ -251,7 +251,7 @@ How can the parties reduce adverse selection problems in the following cases?
 
 ---
 
-Reputation concern is a market force pushing to act with integrity
+Reputation concern is a market force pushing to act with integrity.
 
   1) employee retention
   2) suppliers relationship
@@ -281,10 +281,10 @@ Reputation concern is a market force pushing to act with integrity
 
 ## Contracting costs and organizational architecture
 - Firm goal: producing output that customers want at the lowest possible cost in a context with:
-  - Uncertain demand
-  - Important information for economic decisions is held by different individuals
-  - Information is costly or impossible to transfer
-  - Decision-makers might not have the appropriate incentives to make the effective decisions from the firm perspective (even if they have the information needed!)
+  - Uncertain demand.
+  - Important information for economic decisions is held by different individuals.
+  - Information is costly or impossible to transfer.
+  - Decision-makers might not have the appropriate incentives to make the effective decisions from the firm perspective (even if they have the information needed!).
 - The fundamental problem in Organizational Design: how to organize an economic activity to try to achieve the objective
   - This means solving or alleviating contracting costs and agency conflicts.
 
@@ -300,8 +300,8 @@ Components of an organizational design:
 
 1. Decision rights allocation: Who does what?
 
-    a. Autonomy and responsability
-    b. Specific vs general roles
+    a. Autonomy and responsability.
+    b. Specific vs general roles.
 
 2. Incentive system: How to **evaluate** and **reward** employees?
     - How should product designers be evaluated?
@@ -309,8 +309,8 @@ Components of an organizational design:
 
 ## Contracting costs and organizational design
 - Basic examples of different organizational architectures:
-  1) CEO makes most of the major decisions despite lacking relevant information
-  2) CEO attempts to acquire relevant information to make better decisions but this is costly and time-consuming
+  1) CEO makes most of the major decisions despite lacking relevant information.
+  2) CEO attempts to acquire relevant information to make better decisions but this is costly and time-consuming.
   3) CEO decentralizes decision rights to individuals with better information, but this delegation leads to higher incentive problems
 - Once the CEO decides to delegate some decision rights to some executive, the executive then decides which decisions to make himself and which decisions to delegate to a lower-level manager.
   - Delegation and decision execution create space for agency conflicts.
@@ -323,8 +323,8 @@ Components of an organizational design:
   - 10 min, 7-11 slides
   - Examples:
     1) a CEO fired due to the owner-manager conflicts
-    2) Why do some companies offer a large variety of plans/contracts? An adverse selection explanation
-    3) Agency problems when voting for a politician
+    2) Why do some companies offer a large variety of plans/contracts? An adverse selection explanation.
+    3) Agency problems when voting for a politician.
     4) Reputation concerns in market platforms such as Wallapop, Amazon, Carrefour.
 
 ## Summary
