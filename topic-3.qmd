@@ -63,7 +63,7 @@ In this topic:
 2) Is the firm as efficient as the markets in allocating resources internally? 
   - If not, how can we reduce the inefficiencies?
 
-## The concept of the firm as a focal point for a set of contracts
+---
 
 How does resource allocation take place within a firm?
 
@@ -79,7 +79,7 @@ Complex decision-making:
 
 Rather than market prices to allocate resources.
 
-## The concept of the firm as a focal point for a set of contracts
+---
 
 - We need a richer definition of the firm to be able to capture such complexity.
 - The firm is a focal point for a set of contracts:
@@ -95,7 +95,7 @@ Rather than market prices to allocate resources.
   - But other individuals within the firm (CEO, employees) do not necessarily share this goal.
   - This situation represents an incentive conflict.
 
-## Incentive Conflict within the firms
+---
 
 - Owner-manager conflicts:
 - Effort choice
@@ -104,7 +104,7 @@ Rather than market prices to allocate resources.
 - Differential horizons
 - Overinvestment
 
-## Incentive Conflict within the firms
+---
 
 - Other conflicts:
 - Managers and lower-level employees
@@ -113,7 +113,7 @@ Rather than market prices to allocate resources.
 - Owners and suppliers/costumer
 - Even among owners! (free riding)
 
-## Incentive Conflict and contracts
+---
 
 There are mechanisms to control incentive conflicts:
 
@@ -122,7 +122,7 @@ There are mechanisms to control incentive conflicts:
 
 Imagine this situation: a company with a potential market value of \$10 is being managed by a CEO who destroys value (\$1) by using a Private Jet instead of economy flight tickets for job-related trips. Explain how each mechanism would work.
 
-## Incentive Conflict and contracts
+---
 
 - Costly Contracts: contracts need to be negotiated, written, and enforced.
 - The main limitation of contracts for solving conflicts is that they rely on information that is costly to obtain (information asymmetry)
@@ -150,7 +150,7 @@ Find a counterpart → Negotiate contract terms → Sign the contract → Monito
     - 1) **Self-selection**: adverse selection can be solved by the correct design of a contract set in which the individuals can self-select based on their private information. 
     - 2) **Signaling**: It also can be solved by signaling techniques to allow the principal to infer the agent’s private information. This signal has to be costly to be effective, because other agents might want to imitate the signal to misguide the principal.
 
-## Precontractual information problems
+---
 
 ::::: columns
 ::: {.column width="50%"}
@@ -167,7 +167,7 @@ Find a counterpart → Negotiate contract terms → Sign the contract → Monito
 :::
 :::::
 
-## Precontractual information problems
+---
 
 ::::: columns
 ::: {.column width="58%"}
@@ -186,7 +186,7 @@ Find a counterpart → Negotiate contract terms → Sign the contract → Monito
 :::
 :::::
 
-## Precontractual information problems
+---
 
 2) Bargaining Failures: parties do not reach a (mutually beneficial) agreement due to a lack of correct information.
 
@@ -195,7 +195,7 @@ Examples:
   1) Salary talk in a job interview with a no-hiring result.
   2) Managers and labor union negotiations and strikes.
 
-## Precontractual information problems
+---
 
 How can the parties reduce adverse selection problems in the following cases?
 
@@ -216,7 +216,7 @@ How can the parties reduce adverse selection problems in the following cases?
     - Agents can also face bonding costs to provide a guarantee.
   - Total agency cost= out-of-the-pocket costs (monitoring and bonding cost)+ residual loss.
 
-## Postcontractual information problems
+---
 
 ::::: columns
 ::: {.column width="35%"}
@@ -258,7 +258,7 @@ Reputation concern is a market force pushing to act with integrity.
   3) customer loyalty
   4) investor relations
 
-## Implicit contracts
+---
 
 - The limits of this implicit contract (or reputation concern):
 - the amount of information available (likelihood of cheating detection).
@@ -279,7 +279,7 @@ Reputation concern is a market force pushing to act with integrity.
   - solutions for incentive/information conflicts.
   - f(k,L)??
 
-## Contracting costs and organizational architecture
+## Contracting costs and organizational design
 - Firm goal: producing output that customers want at the lowest possible cost in a context with:
   - Uncertain demand.
   - Important information for economic decisions is held by different individuals.
@@ -288,13 +288,14 @@ Reputation concern is a market force pushing to act with integrity.
 - The fundamental problem in Organizational Design: how to organize an economic activity to try to achieve the objective
   - This means solving or alleviating contracting costs and agency conflicts.
 
-## Contracting costs and organizational design
+---
+
 - Organizational design: created by executives via the implicit and explicit contracts that constitute the firm and assign decision rights, performance evaluation, and compensations
   - A good design reduces contracting costs and encourages desired behaviors among employees (fewer agency conflicts): each contract establishes decision rights and economic incentives.
   - This design is created by executives! Not the result of market transactions.
   - Naturally, firm performance (and survival) depends on how efficient this design is in fostering desired behaviors.
 
-## Contracting costs and organizational design
+---
 
 Components of an organizational design:
 
@@ -307,7 +308,8 @@ Components of an organizational design:
     - How should product designers be evaluated?
     - How should their compensation be structured? (fixed salary, performance bonus, stocks?).
 
-## Contracting costs and organizational design
+---
+
 - Basic examples of different organizational architectures:
   1) CEO makes most of the major decisions despite lacking relevant information.
   2) CEO attempts to acquire relevant information to make better decisions but this is costly and time-consuming.
