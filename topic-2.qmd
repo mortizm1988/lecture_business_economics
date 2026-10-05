@@ -291,7 +291,6 @@ Because price no longer clears the market, the good must be allocated through no
 
 - Allocation may depend on queuing, lotteries, personal connections, or, in extreme cases, bribery or violence.
 
-
 ---
 
 The beneficiaries are visible, but they represent only a subset of potential buyers or renters:
