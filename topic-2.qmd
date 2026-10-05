@@ -384,7 +384,6 @@ Main concepts
 - Price control
 - Contracting costs
 
-----
 
 **Questions?**
 

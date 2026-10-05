@@ -40,51 +40,63 @@ Universitat Pompeu Fabra
 :::
 
 ## Topic 3: Coordination through Contracts
-- Objectives
-- 1) understand the firm as a set of contracts
-- 2) identify important owner-manager conflicts
-- 3) understand how contracts can reduce or solve the conflicts
-- 4) differentiate between moral hazard and adverse selection
-- 5) list the components of agency costs
-- 6) identify implicit contracts
-- 7) list the three components of a firm’s organizational architecture
+
+ Objectives
+
+1) understand the firm as a set of contracts
+2) identify important owner-manager conflicts
+3) understand how contracts can reduce or solve the conflicts
+4) differentiate between moral hazard and adverse selection
+5) list the components of agency costs
+6) identify implicit contracts
+7) list the three components of a firm’s organizational architecture
 
 ## The concept of the firm as a focal point for a set of contracts
-- So far we have seen that markets use prices to allocate resources while firms use managers. We also have discussed the relative efficiency of markets and firms
-- When doing this, we assume that firms have just one central manager who aims to maximize the firm’s value
-- In this topic:
-- 1) we remove this (unrealistic) assumption
-- 2) is the firm as efficient as the markets to internally allocate resources? If not, how can we reduce the inefficiencies?
+
+So far we have seen that markets use prices to allocate resources while firms use managers. We have also discussed the relative efficiency of markets and firms.
+
+When doing this, we assume that firms have just one central manager who aims to maximize the firm’s value.
+
+In this topic:
+
+1) We remove this (unrealistic) assumption
+2) Is the firm as efficient as the markets in allocating resources internally? 
+  - If not, how can we reduce the inefficiencies?
 
 ## The concept of the firm as a focal point for a set of contracts
-- How does the allocation of resources take place within a firm?
-- Decisions and execution:
-  - Board of directors
-  - CEO
-  - Department officers
-  - Middle-level managers
-  - Rank-and-file employees
-- Complex decision making:
-- 1) many agents
-- 2) they have multiple conflicting objectives
-- 3) they use “internal pricing systems” (transfer prices)
-- rather than market prices to allocate resources
+
+How does resource allocation take place within a firm?
+
+Decisions and execution:
+
+- Board of directors →  CEO →  Department officers →  Middle-level managers →  Rank-and-file employees.
+
+Complex decision-making:
+
+  1) many agents.
+  2) they have multiple conflicting objectives.
+  3) they use “internal pricing systems” (transfer prices).
+
+Rather than market prices to allocate resources.
 
 ## The concept of the firm as a focal point for a set of contracts
-- We need a richer definition of the firm to be able to capture such complexity
-- → the firm is a focal point for a set of contracts:
-  - 1) The firm as a creation of the legal system: it can enter a contract, be sued, and so on
-  - 2) Focal point: the firm is always one of the parties in all the contracts that constitutes the firm
-  - 3) Some clauses in the contracts can be explicit (legal arrangements) or implicit (traditions, culture)
+
+- We need a richer definition of the firm to be able to capture such complexity.
+- The firm is a focal point for a set of contracts:
+  1) The firm as a creation of the legal system: it can enter a contract, be sued, and so on.
+  2) Focal point: the firm is always one of the parties in all the contracts that constitute the firm.
+  3) Some clauses in the contracts can be explicit (legal arrangements) or implicit (traditions, culture).
 
 ## Incentive Conflict within the firms
-- Economic theory characterizes individuals as creative optimizers of their own utility
-- Thus, the collection of individuals that contract with the firm are not likely to have objectives that are automatically aligned
+
+- Economic theory characterizes individuals as creative optimizers of their own utility.
+- Thus, the individuals who contract with the firm are unlikely to have objectives that are automatically aligned.
 - The owners of the firm have title to the residual profits (what is left over after other claimants are paid) and are likely to be interested in maximizing the present value of these profits.
-  - But the other individuals within the firm (CEO, employees) do not share this goal necessarily.
-  - This situation represents an incentive conflicts
+  - But other individuals within the firm (CEO, employees) do not necessarily share this goal.
+  - This situation represents an incentive conflict.
 
 ## Incentive Conflict within the firms
+
 - Owner-manager conflicts:
 - Effort choice
 - Perquisite taking
@@ -93,6 +105,7 @@ Universitat Pompeu Fabra
 - Overinvestment
 
 ## Incentive Conflict within the firms
+
 - Other conflicts:
 - Managers and lower-level employees
 - Creditors and shareholders (e.g., dividends)
@@ -101,12 +114,16 @@ Universitat Pompeu Fabra
 - Even among owners! (free riding)
 
 ## Incentive Conflict and contracts
-- There are mechanisms to control incentive conflicts:
-  - 1) contracts (the focus of the course)
-  - 2) market for corporate control
-- Imagine this situation: a company with a potential market value of \$10 is being managed by a CEO who destroys value (\$1) by using a Private Jet instead of economy flight tickets for job-related trips. Explain how each mechanism would works.
+
+There are mechanisms to control incentive conflicts:
+
+  1) contracts (the focus of the course)
+  2) market for corporate control
+
+Imagine this situation: a company with a potential market value of \$10 is being managed by a CEO who destroys value (\$1) by using a Private Jet instead of economy flight tickets for job-related trips. Explain how each mechanism would work.
 
 ## Incentive Conflict and contracts
+
 - Costly Contracts: contracts need to be negotiated, written, and enforced.
 - The main limitation of contracts for solving conflicts is that they rely on information that is costly to obtain (information asymmetry)
   - In our previous example: the CEO knows better the potential value of the firm and how much he is traveling.
@@ -114,35 +131,38 @@ Universitat Pompeu Fabra
 - There are two types of information problems: before and after contracting.
 
 ## Contractual information problems
-- Find a
-- counterpart
-- Negotiate
-- contract terms
-- Sign the
-- contract
-- Monitor and
-- Enforcement
-- Time
+
+Find a counterpart → Negotiate contract terms → Sign the contract → Monitor and Enforcement.
+
 
 ## Precontractual information problems
-- 1) Adverse selection: Adverse selection refers to the tendency of an individual with private information about something that affects a potential trading partner’s costs or benefits to extend an offer that would be detrimental to the trading partner.
-  - Example: (health insurance market) Two women of the same age and profession living in the same city. Woman A knows that her expected annual medical expenditure is \$100, while Woman B knows that in her case it is \$700. This information is costly to get by the Health Insurance Company.
-  - What happened if the company offers a health insurance with price \$400 (the average). No gains from trade!
+
+1) **Adverse selection**: Adverse selection refers to the tendency of an individual with private information about something that affects a potential trading partner’s costs or benefits to extend an offer that would be detrimental to the trading partner.
+  - Example: (health insurance market) Two women of the same age and profession living in the same city. Woman **A** knows her expected annual medical expenditure is $100, while Woman **B** knows hers is $700. 
+  - This information is costly to collect for the Health Insurance Company.
+  - What happens if the company offers health insurance for $400 (the average). 
+  - No gains from trade!
+
+ --- 
+  
   - Solutions:
-    - 1) adverse selection can be solved by the correct design of a contract set in which the individuals can self-select based on their private information (screening contracts)
-    - 2) It also can be solved by signaling techniques to allow the principal to infer the agent’s private information. This signal has to be costly to be effective, because other agents might want to imitate the signal to misguide the principal
+
+    - 1) **Self-selection**: adverse selection can be solved by the correct design of a contract set in which the individuals can self-select based on their private information. 
+    - 2) **Signaling**: It also can be solved by signaling techniques to allow the principal to infer the agent’s private information. This signal has to be costly to be effective, because other agents might want to imitate the signal to misguide the principal.
 
 ## Precontractual information problems
 
 ::::: columns
-::: {.column width="58%"}
-- 1.1) Self selection:
-- The idea of this solution is to offer different contracts in such a way that the agent (employee/customer) selects the appropriate one given its private knowledge.
-- Ex: how many types of contract are used by health insurance companies?
-  - Fixed fee, coverage, and deductible
+::: {.column width="50%"}
+
+1.1) Self-selection:
+
+- The idea is to offer different contracts so the agent (employee/customer) selects the appropriate one based on its private knowledge.
+- Ex: how many types of contracts are used by health insurance companies?
+  - Fixed fee, coverage, and deductible.
 :::
 
-::: {.column width="42%"}
+::: {.column width="50%"}
 ![](topic-3_files/1000000000000320000002159AC87B04.png){width="100%"}
 :::
 :::::
@@ -151,12 +171,14 @@ Universitat Pompeu Fabra
 
 ::::: columns
 ::: {.column width="58%"}
-- 1.2) Signaling:
-- The idea of this solution is that agents can provide a credible signal that allows to the principal to identify its private information.
-- The signal must be too costly to imitate by other agents
+
+1.2) Signaling:
+
+- The idea is that agents can provide a credible signal that allows the principal to identify their private information.
+- The signal must be too costly to imitate by other agents.
 - Example:
-- (1) the signaling role of education in the labor market
-- (2) the signaling role of an entrepreneur’s investments in his/her own business
+  1) the signaling role of education in the labor market
+  2) the signaling role of an entrepreneur’s investments in his/her own business
 :::
 
 ::: {.column width="42%"}
@@ -165,39 +187,45 @@ Universitat Pompeu Fabra
 :::::
 
 ## Precontractual information problems
-- 2) Bargaining Failures: parties do not reach a (mutually-beneficial) agreement by lack of the correct information
-- Examples:
-- (1) Salary talk in a job interview with a no-hiring result
-- (2) Managers and labor union negotiation and strikes
+
+2) Bargaining Failures: parties do not reach a (mutually beneficial) agreement due to a lack of correct information.
+
+Examples:
+
+  1) Salary talk in a job interview with a no-hiring result.
+  2) Managers and labor union negotiations and strikes.
 
 ## Precontractual information problems
-- How the parties can reduce adverse selection problems in the following cases?
-  - Identify the agents and nature of the trade negotiation
-  - Identify the costly information and who owns it (describe the information asymmetry)
-  - Identify the inefficiency generated by this incentive/information problem
-  - Describe a contract set that allows for self-selection or a credible and costly signal
-- 1) Financing contract: a bank deciding which individuals to lend to
-- 2) Purchase contract: a buyer deciding which second-hand car to buy
+
+How can the parties reduce adverse selection problems in the following cases?
+
+- Identify the agents and nature of the trade negotiation.
+- Identify the costly information and who owns it (describe the information asymmetry).
+- Identify the inefficiency generated by this incentive/information problem.
+- Describe a contract set that allows for self-selection or a credible and costly signal.
+    1) Financing contract: a bank deciding which individuals to lend to.
+    2) Purchase contract: a buyer deciding which second-hand car to buy.
 
 ## Postcontractual information problems
-- Agency problems
-  - An agency relationship consists of an agreement (e.g., contract) under which one party, the principal, engages another party, the agent, to perform some service on the principal’s behalf
+
+**Agency problems**: An agency relationship consists of an agreement (e.g., contract) under which one party, the principal, engages another party, the agent, to perform some service on the principal’s behalf.
+
   - The agency problem: once the contract is set, the agent pursues its incentives to increase its well-being at the expense of the principal.
-  - Asymmetric information: the principal cannot observe the actions of the agent costlessly, so the agent can engage in detrimental activities, not being detected by the principal
-    - Principals can limit this behavior but must incur in monitoring costs
-    - Agents can also face bonding costs to provide a guarantee
-  - Total agency cost= out-of-the-pocket costs (monitoring and bonding cost)+ residual loss
+  - Asymmetric information: the principal cannot observe the actions of the agent costlessly, so the agent can engage in detrimental activities, not being detected by the principal.
+    - Principals can limit this behavior but must incur in monitoring costs.
+    - Agents can also face bonding costs to provide a guarantee.
+  - Total agency cost= out-of-the-pocket costs (monitoring and bonding cost)+ residual loss.
 
 ## Postcontractual information problems
 
 ::::: columns
-::: {.column width="58%"}
+::: {.column width="35%"}
 - Agency problems
 - Which contract/transaction suffers agency problems?
 - How to solve it?
 :::
 
-::: {.column width="42%"}
+::: {.column width="65%"}
 :::::: {.two-columns}
 ::: {.column}
 ![](topic-3_files/10000000000003E8000003E82C77FF3D.png){width="100%"}
@@ -213,35 +241,42 @@ Universitat Pompeu Fabra
 :::::
 
 ## Implicit contracts
+
 - Many (if not most) of the contract clauses that constitute a firm are implicit.
-  - Promises and understanding that are not formalized as legal documents
-  - Examples: the promise of promotion or salary raise for a job well done, dressing code for meeting clients
-- But if they are not legal agreements (so are not enforceable in courts) why do individuals expect others to honor them?
-  - Because of reputation concern acts as a driving force to motivate contract compliance
-  - Market participants can impose substantial costs on individuals for unscrupulous behavior
-- Reputation concern is a market force pushing to act with integrity
-  - 1) employee retention
-  - 2) suppliers relationship
-  - 3) customer loyalty
-  - 4) investor relations
+  - Promises and understandings that are not formalized as legal documents.
+  - Examples: the promise of promotion or salary raise for a job well done, dress code for meeting clients.
+- But if they are not legal agreements (and therefore not enforceable in court), why do individuals expect others to honor them?
+  - Because of reputation concerns acts as a driving force to motivate contract compliance.
+  - Market participants can impose substantial costs on individuals for unscrupulous behavior.
+
+---
+
+Reputation concern is a market force pushing to act with integrity
+
+  1) employee retention
+  2) suppliers relationship
+  3) customer loyalty
+  4) investor relations
 
 ## Implicit contracts
+
 - The limits of this implicit contract (or reputation concern):
-- the amount of information available (likelihood of cheating detection)
+- the amount of information available (likelihood of cheating detection).
   - clients receiving products with subpar materials/quality. No access to inspection technology.
-- the speed of information dissemination to potential trading partners
-  - “Fraud and move”
+- the speed of information dissemination to potential trading partners.
+  - “Fraud and move”.
   - Accelerating contracts overseas before a scandal is made public.
-- the magnitude of the social/economic sanction
+- the magnitude of the social/economic sanction.
   - a social culture that underweights lousy behavior.
 
 ## Incentives to reduce contracting costs
-- Everyone has an incentive to resolve contracting problems in the least costly manner, because in this way there are additional gains from trade to share among parties
-- This means that incentives exist within the contracting process to produce an efficient utilization of resources (from the perspective of the contracting parties)
+
+- Everyone has an incentive to resolve contracting problems in the least costly manner, because in this way there are additional gains from trade to share among parties.
+- This means that incentives exist within the contracting process to produce an efficient utilization of resources (from the perspective of the contracting parties).
 - The view of contracts as an efficient response to incentive problems within a firm is an extremely powerful tool in explaining observed organizational designs:
   - Simple example: compare the labor contracts of fruit pickers and airplane assemblers.
-  - temporal vs long term contract
-  - solutions for incentive/information conflicts
+  - temporal vs long term-contract.
+  - solutions for incentive/information conflicts.
   - f(k,L)??
 
 ## Contracting costs and organizational architecture
@@ -249,53 +284,63 @@ Universitat Pompeu Fabra
   - Uncertain demand
   - Important information for economic decisions is held by different individuals
   - Information is costly or impossible to transfer
-  - Decision-makers might not have the appropriate incentives to take the effective decisions from the firm perspective (even if they have the information needed!)
+  - Decision-makers might not have the appropriate incentives to make the effective decisions from the firm perspective (even if they have the information needed!)
 - The fundamental problem in Organizational Design: how to organize an economic activity to try to achieve the objective
-  - This means solving or alleviating reducing contracting costs and agency conflicts
+  - This means solving or alleviating contracting costs and agency conflicts.
 
 ## Contracting costs and organizational design
 - Organizational design: created by executives via the implicit and explicit contracts that constitute the firm and assign decision rights, performance evaluation, and compensations
   - A good design reduces contracting costs and encourages desired behaviors among employees (fewer agency conflicts): each contract establishes decision rights and economic incentives.
-  - This design is created by executives! not the result of market transactions.
-  - Naturally, firm performance (and survival) depends on how efficient is this design in fostering desired behaviors.
+  - This design is created by executives! Not the result of market transactions.
+  - Naturally, firm performance (and survival) depends on how efficient this design is in fostering desired behaviors.
 
 ## Contracting costs and organizational design
-- Components of an organizational design:
-  - 1)Decision rights allocation: Who does what? → How to assign decision rights among employees?
-    - Should employees in the logistics department have decision rights (assigned in their contracts) about product design?
-    - What conflicts could emerge?
-  - 2)Incentive system (performance evaluation and compensation): how to evaluate and reward employees to mitigate incentive conflicts?
-    - How should product designers been evaluated?
-    - How their compensation should be structured? (fixed salary, performance bonus, stocks?)
+
+Components of an organizational design:
+
+1. Decision rights allocation: Who does what?
+
+    a. Autonomy and responsability
+    b. Specific vs general roles
+
+2. Incentive system: How to **evaluate** and **reward** employees?
+    - How should product designers be evaluated?
+    - How should their compensation be structured? (fixed salary, performance bonus, stocks?).
 
 ## Contracting costs and organizational design
 - Basic examples of different organizational architectures:
-  - 1) CEO makes most of the major decisions despite lacking relevant information
-  - 2) CEO attempts to acquire relevant information to make better decisions but this is costly and time-consuming
-  - 3) CEO decentralize decision rights to individuals with better information, but this delegation leads to higher incentive problems
-- Once the CEO decide to delegate some decision rights to some executive, the executive then decide which decisions to make himself and which decisions delegate to a lower level manager
-  - Delegation and execution of decisions create space for agency conflicts.
-- A well-designed organization aims to minimize the agency costs across the company
+  1) CEO makes most of the major decisions despite lacking relevant information
+  2) CEO attempts to acquire relevant information to make better decisions but this is costly and time-consuming
+  3) CEO decentralizes decision rights to individuals with better information, but this delegation leads to higher incentive problems
+- Once the CEO decides to delegate some decision rights to some executive, the executive then decides which decisions to make himself and which decisions to delegate to a lower-level manager.
+  - Delegation and decision execution create space for agency conflicts.
+- A well-designed organization aims to minimize the agency costs across the company.
 
 ## Cases to Discuss
-- Present an real case related to some of the topics of the class.
+- Present a real case related to some of the topics of the class.
   - The case should be based on recent news (<2 years) and preferably related to Spanish companies/cases.
-  - Start the presentation with the context behind the event/decision/case, then identify the relevant concepts, to finally conclude/assess the case.
+  - Start the presentation with the context behind the event/decision/case, then identify the relevant concepts, and finally conclude/assess the case.
   - 10 min, 7-11 slides
   - Examples:
-    - 1) a CEO fired by any of the owner-manager conflicts
-    - 2) Why do some companies offer a large variety of plans/contracts? An adverse selection explanation
-    - 3) Agency problems when voting for a politician
-    - 4) Reputation concern in markets platforms such as Wallapop, Amazon, Carrefour.
+    1) a CEO fired due to the owner-manager conflicts
+    2) Why do some companies offer a large variety of plans/contracts? An adverse selection explanation
+    3) Agency problems when voting for a politician
+    4) Reputation concerns in market platforms such as Wallapop, Amazon, Carrefour.
 
 ## Summary
-- Main concepts
-  - Incentive conflicts
-  - Contracts and contracting costs
-  - Information asymmetry/costly
-  - Agency problem
-  - Bargaining failure
-  - Adverse selection
-  - Signaling and self selection
-  - Implicit contracts
-  - Organizational design (and its components)
+
+Main concepts
+
+- Contracts and contracting costs
+- Agency problem
+- Bargaining failure
+- Adverse selection
+- Signaling and self selection
+- Implicit contracts
+- Organizational design (and its components)
+
+**Questions?**
+
+Check my website for an updated version of this presentation:
+
+[https://www.marceloortizm.com/](https://www.marceloortizm.com)
