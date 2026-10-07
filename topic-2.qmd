@@ -156,6 +156,15 @@ Valeria and her friends can pool their savings and create a firm to acquire and 
 
 The legal entity changes who holds legal title to the asset, but **preserves the owners' incentive to invest** when they can claim the returns from that investment.
 
+
+::: {.callout-tip}
+## The financing view of the firm
+
+**Risk aversion**: by pooling their savings, the owners can diversify and invest/speculate in riskier/larger assets.
+
+Who benefits from speculation?
+:::
+
 ## The state makes property rights credible
 
 A right on paper has little economic value if others can take or violate it without consequence.
@@ -170,6 +179,8 @@ Public authority supports markets through:
 
 ---
 
+::: {.callout-warning}
+
 Bad legal institutions—slow, costly, unfair, and highly uncertain—reduce social welfare.
 
 Real consequences include:
@@ -177,6 +188,10 @@ Real consequences include:
 1) Discourage saving, investing, and trade.
 
 2) Higher enforcement costs change the composition of the market: only those willing to litigate or pay for private protection can trade.
+
+:::
+
+
 
 Discussion:
 
@@ -244,7 +259,7 @@ Example (from “Brickley et al.,”)
 
 ---
 
-The market-price system
+**The market-price system:**
 
 - The market includes all potential buyers and sellers of the item.
   - So many buyers and sellers that individual transactions are not relevant for the overall market.
@@ -271,7 +286,7 @@ Key concepts:
 
 ## Prices as a social coordinator
 
-The equilibrium of supply and demand highlights the informative role of market price to **coordinate production and consumption decisions** of individuals
+The equilibrium of supply and demand highlights the informative role of market price to **coordinate production and consumption decisions** of individuals.
 
 If everyone trades in a competitive marketplace and all mutually advantageous trades are completed, the price system results in a **Pareto-Efficient** resource allocation.
 
@@ -281,9 +296,12 @@ If everyone trades in a competitive marketplace and all mutually advantageous tr
 
 ## Government intervention
 
-How can policymakers shifts the supply/demand curves without price controls?
+How can policymakers shift supply and demand without using price controls?
 
-### Price controls
+- Supply-side policies: reduce producers’ costs (for example, legal or administrative costs), subsidize producers, invest in infrastructure, increase productive competition, or provide goods directly through public production.
+- Demand-side policies: subsidize consumers, offer tax incentives, or provide income support that increases consumers’ purchasing power.
+
+## Price controls
 
 **Binding price cap:** When the regulated price lies below the market-clearing price, quantity demanded exceeds quantity supplied. The result is a shortage.
 
@@ -323,7 +341,12 @@ Note that other economic regulations that we will discuss today have positive we
 
 Markets need a legal framework to work properly, but weak or distorted regulations can negatively affect the economy.
 
-**Discussion:** why are bad laws pervasive in many democratic countries?
+
+::: {.callout-note}
+## Discussion: 
+why are bad laws pervasive in many democratic countries?
+
+:::
 
 ## Why do firms exist?
 
