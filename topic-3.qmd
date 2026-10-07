@@ -81,23 +81,41 @@ Rather than market prices to allocate resources.
 
 ---
 
-- We need a richer definition of the firm to be able to capture such complexity.
-- The firm is a focal point for a set of contracts:
-  1) The firm as a creation of the legal system: it can enter a contract, be sued, and so on.
-  2) Focal point: the firm is always one of the parties in all the contracts that constitute the firm.
-  3) Some clauses in the contracts can be explicit (legal arrangements) or implicit (traditions, culture).
+We need a richer definition of the firm to be able to capture such complexity.
 
-## Incentive Conflict within the firms
+::: {.callout-note}
+## Contractual theory of the firm
 
-- Economic theory characterizes individuals as creative optimizers of their own utility.
-- Thus, the individuals who contract with the firm are unlikely to have objectives that are automatically aligned.
-- The owners of the firm have title to the residual profits (what is left over after other claimants are paid) and are likely to be interested in maximizing the present value of these profits.
-  - But other individuals within the firm (CEO, employees) do not necessarily share this goal.
-  - This situation represents an incentive conflict.
+The firm is not simply a production unit; it is a **nexus of contracts** that coordinates relationships among owners, managers, workers, suppliers, lenders, and customers.
+
+1. **Legal framework:** The firm is recognized by the legal system as an entity that can own assets, enter contracts, sue, and be sued.
+
+2. **Coordination and authority:** Rather than negotiating every transaction through the market, parties may enter longer-term contracts within the firm. Employment contracts typically give managers authority to direct workers within agreed limits.
+
+3. **Explicit and implicit contracts:** Some arrangements are formal and legally enforceable—such as wages, duties, and supply agreements—while others are implicit, based on trust, norms, reputation, and organizational culture.
+
+4. **Why firms exist:** Firms can reduce transaction costs, such as the costs of searching, negotiating, monitoring, and enforcing separate market contracts.
+:::
+
+
+## Incentive conflicts within the firm
+
+- Economic theory often considers individuals as rational agents who pursue their own objectives.
+
+- Because the parties connected to a firm—shareholders, managers, and employees—may have different objectives, their interests are not automatically aligned.
+
+- In a corporation, shareholders are typically the **residual claimants**: they receive the income remaining after wages, suppliers, lenders, and taxes have been paid.
+
+  - Shareholders therefore generally have an interest in maximizing the long-run value of the firm.
+
+  - Managers and employees may pursue partly different objectives, such as compensation, job security, power, prestige, or reduced effort.
+
+- These differences create **incentive conflicts** (or **agency problems**) within the firm.
 
 ---
 
-- Owner-manager conflicts:
+Owner-manager conflicts:
+
 - Effort choice
 - Perquisite taking
 - Differential risk exposure
@@ -106,7 +124,8 @@ Rather than market prices to allocate resources.
 
 ---
 
-- Other conflicts:
+Other conflicts:
+
 - Managers and lower-level employees
 - Creditors and shareholders (e.g., dividends)
 - Managers and labor union
@@ -117,15 +136,16 @@ Rather than market prices to allocate resources.
 
 There are mechanisms to control incentive conflicts:
 
-  1) contracts (the focus of the course)
-  2) market for corporate control
+  1) Contracts (the focus of the course)
+  2) Market for corporate control
 
-Imagine this situation: a company with a potential market value of \$10 is being managed by a CEO who destroys value (\$1) by using a Private Jet instead of economy flight tickets for job-related trips. Explain how each mechanism would work.
+Imagine this situation: a company with a potential market value of \$10 is being managed by a CEO who destroys value (\$1) by using a private jet instead of economy flight tickets for job-related trips. Explain how each mechanism would work.
 
 ---
 
-- Costly Contracts: contracts need to be negotiated, written, and enforced.
-- The main limitation of contracts for solving conflicts is that they rely on information that is costly to obtain (information asymmetry)
+**Costly Contracts**: contracts need to be negotiated, written, and enforced.
+
+- The main limitation of contracts for solving conflicts is that they rely on information that is costly to obtain (information asymmetry).
   - In our previous example: the CEO knows better the potential value of the firm and how much he is traveling.
   - How costly is it for shareholders to reduce this information asymmetry?
 - There are two types of information problems: before and after contracting.
