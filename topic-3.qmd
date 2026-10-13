@@ -142,10 +142,11 @@ Find a counterpart → Negotiate contract terms → Sign the contract → Monito
 ## Precontractual information problems
 
 1) **Adverse selection**: Adverse selection refers to the tendency of an individual with private information about something that affects a potential trading partner’s costs or benefits to extend an offer that would be detrimental to the trading partner.
-  - Example: (health insurance market) Two women of the same age and profession living in the same city. Woman **A** knows her expected annual medical expenditure is $100, while Woman **B** knows hers is $700. 
-  - This information is costly to collect for the Health Insurance Company.
-  - What happens if the company offers health insurance for $400 (the average). 
-  - No gains from trade!
+
+- Example: (health insurance market) Two women of the same age and profession living in the same city. Woman **A** knows her expected annual medical expenditure is $100, while Woman **B** knows hers is $700. 
+    - This information is costly to collect for the Health Insurance Company.
+    - What happens if the company offers health insurance for $400 (the average). 
+    - No gains from trade!
 
  --- 
   
@@ -181,8 +182,8 @@ Find a counterpart → Negotiate contract terms → Sign the contract → Monito
 - The idea is that agents can provide a credible signal that allows the principal to identify their private information.
 - The signal must be too costly to imitate by other agents.
 - Example:
-  1) the signaling role of education in the labor market
-  2) the signaling role of an entrepreneur’s investments in his/her own business
+  1) the signaling role of education in the labor market.
+  2) the signaling role of an entrepreneur’s investments in his/her own business.
 :::
 
 ::: {.column width="42%"}
@@ -226,7 +227,8 @@ How can the parties reduce adverse selection problems in the following cases?
 
 ::::: columns
 ::: {.column width="35%"}
-- Agency problems
+**Agency problems**:
+
 - Which contract/transaction suffers agency problems?
 - How to solve it?
 :::
@@ -259,31 +261,31 @@ How can the parties reduce adverse selection problems in the following cases?
 
 Reputation concern is a market force pushing to act with integrity.
 
-  1) employee retention
-  2) suppliers relationship
-  3) customer loyalty
-  4) investor relations
+  1) Employee retention.
+  2) Suppliers relationship.
+  3) Customer loyalty.
+  4) Investor relations.
 
 ---
 
 - The limits of this implicit contract (or reputation concern):
-- the amount of information available (likelihood of cheating detection).
-  - clients receiving products with subpar materials/quality. No access to inspection technology.
-- the speed of information dissemination to potential trading partners.
+- The amount of information available (likelihood of cheating detection).
+  - Clients receiving products with subpar materials/quality. No access to inspection technology.
+- The speed of information dissemination to potential trading partners.
   - “Fraud and move”.
   - Accelerating contracts overseas before a scandal is made public.
-- the magnitude of the social/economic sanction.
-  - a social culture that underweights lousy behavior.
+- The magnitude of the social/economic sanction.
+  - A social culture that underweights lousy behavior.
 
 ## Incentives to reduce contracting costs
 
 - Everyone has an incentive to resolve contracting problems in the least costly manner, because in this way there are additional gains from trade to share among parties.
 - This means that incentives exist within the contracting process to produce an efficient utilization of resources (from the perspective of the contracting parties).
-- The view of contracts as an efficient response to incentive problems within a firm is an extremely powerful tool in explaining observed organizational designs:
+- The view of contracts as an efficient response to incentive problems within a firm is an  powerful tool in explaining **observed organizational designs**:
   - Simple example: compare the labor contracts of fruit pickers and airplane assemblers.
-  - temporal vs long term-contract.
-  - solutions for incentive/information conflicts.
-  - f(k,L)??
+    - Temporal vs long term-contract.
+    - Solutions for incentive/information conflicts.
+  - f(k,l)??
 
 ## Contracting costs and organizational design
 - Firm goal: producing output that customers want at the lowest possible cost in a context with:
@@ -296,7 +298,7 @@ Reputation concern is a market force pushing to act with integrity.
 
 ---
 
-- Organizational design: created by executives via the implicit and explicit contracts that constitute the firm and assign decision rights, performance evaluation, and compensations
+- Organizational design: created by executives via the implicit and explicit contracts that constitute the firm and assign decision rights, performance evaluation, and compensations.
   - A good design reduces contracting costs and encourages desired behaviors among employees (fewer agency conflicts): each contract establishes decision rights and economic incentives.
   - This design is created by executives! Not the result of market transactions.
   - Naturally, firm performance (and survival) depends on how efficient this design is in fostering desired behaviors.
