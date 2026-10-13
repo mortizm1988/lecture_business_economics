@@ -141,20 +141,21 @@ $presentation-heading-line-height: 1.15;
   grid-template-columns: 1fr 1fr;
 }
 
-/* slide numbers  */
+/*
+  SLIDE NUMBERS
+
+  The `slide-number: c/t` option in each .qmd file creates the current-slide /
+  total-slides value. This shared rule turns it into a small lower-right box.
+*/
 .reveal .slide-number {
   display: block;
-  /* Ensure the element is displayed */
-  color: #333333;
-  /* Set a visible color */
-  font-size: 16px;
-  /* Adjust font size as needed */
-  position: fixed;
-  /* Fix the position */
-  bottom: 10px;
-  /* Position at the bottom */
-  right: 10px;
-  /* Position at the right */
-  z-index: 1000;
-  /* Ensure it is on top of other elements */
+  background: rgba(255, 255, 255, .9);
+  bottom: 16px;
+  color: #c8102e;
+  font-size: 14px;
+  left: auto;
+  padding: 5px 8px;
+  position: absolute;
+  right: 16px;
+  z-index: 31;
 }

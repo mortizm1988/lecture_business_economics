@@ -10,8 +10,8 @@ format:
     center: false
     controls: true
     progress: true
-    slide-number: false
-    show-slide-number: print
+    slide-number: c/t
+    show-slide-number: all
     pdf-max-pages-per-slide: 1
     pdf-separate-fragments: false
     transition: fade
