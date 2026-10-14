@@ -285,20 +285,23 @@ Reputation concern is a market force pushing to act with integrity.
   - Simple example: compare the labor contracts of fruit pickers and airplane assemblers.
     - Temporal vs long term-contract.
     - Solutions for incentive/information conflicts.
-  - f(k,l)??
 
 ## Contracting costs and organizational design
-- Firm goal: producing output that customers want at the lowest possible cost in a context with:
-  - Uncertain demand.
+
+Firm goal: producing output that customers want at the lowest possible cost in a context with:
+
+  - Uncertain profits and legal contexts.
   - Important information for economic decisions is held by different individuals.
   - Information is costly or impossible to transfer.
-  - Decision-makers might not have the appropriate incentives to make the effective decisions from the firm perspective (even if they have the information needed!).
-- The fundamental problem in Organizational Design: how to organize an economic activity to try to achieve the objective
+  - Decision-makers might not have the appropriate incentives to make the effective decisions from the firm perspective (**even if they have the information needed!**).
+
+The fundamental problem in Organizational Design: how to organize an economic activity to try to achieve the objective
+
   - This means solving or alleviating contracting costs and agency conflicts.
 
 ---
 
-- Organizational design: created by executives via the implicit and explicit contracts that constitute the firm and assign decision rights, performance evaluation, and compensations.
+- Organizational design: implicit and explicit contracts that constitute the firm and assign decision rights, performance evaluation, and compensations.
   - A good design reduces contracting costs and encourages desired behaviors among employees (fewer agency conflicts): each contract establishes decision rights and economic incentives.
   - This design is created by executives! Not the result of market transactions.
   - Naturally, firm performance (and survival) depends on how efficient this design is in fostering desired behaviors.
@@ -327,11 +330,15 @@ Components of an organizational design:
 - A well-designed organization aims to minimize the agency costs across the company.
 
 ## Cases to Discuss
-- Present a real case related to some of the topics of the class.
+
+ Present a real case related to some of the topics of the class.
+
   - The case should be based on recent news (<2 years) and preferably related to Spanish companies/cases.
   - Start the presentation with the context behind the event/decision/case, then identify the relevant concepts, and finally conclude/assess the case.
   - 10 min, 7-11 slides
-  - Examples:
+
+Examples:
+
     1) a CEO fired due to the owner-manager conflicts
     2) Why do some companies offer a large variety of plans/contracts? An adverse selection explanation.
     3) Agency problems when voting for a politician.
