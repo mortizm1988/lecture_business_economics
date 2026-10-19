@@ -25,13 +25,17 @@ format:
 from: markdown-smart
 ---
 
-## Business Economics {.title-slide}
+## Business Economics: Topic 4 {.title-slide}
 
 ::: title-rule
 :::
 
 ::: title-meta
 Marcelo Ortiz M.
+:::
+::: title-note
+Department of Economics and Business  
+Universitat Pompeu Fabra
 :::
 
 ## Topic 4: Teams and Decision Rights
