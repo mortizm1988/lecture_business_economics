@@ -56,16 +56,17 @@ Universitat Pompeu Fabra
 - (2) Decision authority (to determine when and how to complete each task)
 
 ## From tasks to jobs
-  - 2 4 Secretary General Manager/CEO
-- Variety of task
-  - 1 3 Office receptionist Sales manager
-  - Decision authority
+- Variety of task:
+  - Secretary  // General Manager/CEO
+- Decision authority
+  - Office receptionist // Sales manager
+  
 
 ## From tasks to jobs
-- Unfortunately, the problem of bundling tasks into jobs is extremely complex. It involves the assignment of literally thousands of tasks and decision rights
-- It also involves simultaneous consideration of other corporate policies such as performance- evaluation and compensation policy—the other two legs of the organizational architecture tool
-- Although the current theory is not sufficiently well developed to provide a detailed solution to this general problem, through some relatively simple examples we can derive important insights
-- In this topic, we focus on the issue of decision authority
+- Unfortunately, the problem of bundling tasks into jobs is extremely complex. It involves the assignment of literally thousands of tasks and decision rights.
+- It also involves simultaneous consideration of other corporate policies such as performance- evaluation and compensation policy—the other two legs of the organizational architecture tool.
+- Although the current theory is not sufficiently well developed to provide a detailed solution to this general problem, through some relatively simple examples we can derive important insights.
+- In this topic, we focus on the issue of decision authority.
 
 ## Centralization vs Decentralization
 - Suppose you own a company that sells car in Barcelona and Madrid. You have hired two local managers, Xavier and José, one for each city. For simplicity, let’s consider a single task: pricing each sale.
@@ -78,15 +79,33 @@ Universitat Pompeu Fabra
 - 4) Xavier and Javier separately for their own cities
 
 ## Centralization vs Decentralization
-- Lets compare the two extreme options: fully centralized and decentralized
-  - Benefits of decentralization Costs of decentralization
-  - Better use of local/specific - Incentive problems (e.g., knowledge: geographic, technical. delaying/hiding bad news, perquisite - Conservation of senior taking) management time - Coordination costs and failures - Training and motivation for local (externalities, missing synergies) managers - Less effective use of central information (eg., info about suppliers) - Forgone scale economies (eg., advertising)
+- Let’s compare the two extreme options: fully centralized and fully decentralized.
+
+::::: columns
+::: {.column width="50%"}
+### Benefits of decentralization
+
+- Better use of local and specific knowledge, such as geographic or technical knowledge
+- Conservation of senior management time
+- Training and motivation for local managers
+:::
+
+::: {.column width="50%"}
+### Costs of decentralization
+
+- Incentive problems, such as delaying or hiding bad news and perquisite taking
+- Coordination costs and failures, including externalities and missing synergies
+- Less effective use of central information, for example information about suppliers
+- Forgone scale economies, for example in advertising
+:::
+:::::
 
 ## Centralization vs Decentralization
 - Discuss the benefits/costs of centralizing product design in a small electronic manufacturer producing just two products (notebook and tablet) with two designers.
 
 ## Centralization vs Decentralization
-- These costs and benefits are likely to vary across firms and time.
+These costs and benefits are likely to vary across firms and time.
+
 - Across firms:
 - Technology
 - Market condition/discipline
@@ -98,12 +117,12 @@ Universitat Pompeu Fabra
 ## Centralization vs Decentralization
 
 ::::: columns
-::: {.column width="58%"}
+::: {.column width="50%"}
 - The same analysis applies when we move the focus from the job to the business department level:
 - For example: Can we use this theory to explain differences in the decision right distribution in Logistics Department across companies?
 :::
 
-::: {.column width="42%"}
+::: {.column width="50%"}
 ![](topic-4_files/slide-010-graphics.svg){width="100%"}
 :::
 :::::
@@ -121,22 +140,41 @@ Universitat Pompeu Fabra
 
 ## Horizontal (lateral) decision rights
 - Describe how these factors apply of each of the 3 organizational options for lateral decision rights in our examples
-  - Pricing – Product design –
+  - Pricing – Product design
 
 ## Centralization vs Decentralization
 - Team: a work group with decision authority
 - Team decision-making: usually about managing activities, providing evaluation or suggestion, development new projects/products
 - Managing activities: multiple divisions/knowledge, coordinating production or working schedules, launching new products
-  - Costs Benefits
-  - Improved use of dispersed specific - Collective action problem (slow knowledge decision making! And even inefficient) - Employee buy-in - Free-rider problem
+
+----
+
+::::: columns
+::: {.column width="50%"}
+### Benefits of teams
+- Improved use of dispersed specific knowledge
+- Employee buy-in
+:::
+::: {.column width="50%"}
+### Costs of teams
+- Collective action problems, which can slow decision-making and make it inefficient
+- Free-rider problems
+:::
+:::::
 
 ## Decision Management and Control
 - So far we have simplified the analysis: we assumed that an employee either has a decision right or does not
 - We can divide this concept into 4 components:
-- Decision management:
-- 1) initiation: generation of proposals for new initiatives or changes Develop these concepts for our previous two examples: 2) implementation: execution of the decision - pricing - product design Decision Control:
-- 1) ratification: choice the initiative to be implemented
-- 2) monitoring: measuring performance and implementation of rewards
+
+Decision management:
+
+1) initiation: generation of proposals for new initiatives or changes 
+2) implementation: execution of the decision - pricing - product design 
+
+Decision Control:
+
+1) ratification: choice the initiative to be implemented
+2) monitoring: measuring performance and implementation of rewards
 
 ## Decision Management and Control
 - The main recommendation is to separate decision control and management among different agents/teams
