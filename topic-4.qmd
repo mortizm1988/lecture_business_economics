@@ -225,25 +225,12 @@ Discuss the distribution of decision management or control rights. Who monitors 
 - Navy and promotion: tenure
 
 
-
-
 ## Influence cost
 
 When are these “decision rules” recommended?
 
-- In cases where the firm’s profits are unaffected by decisions with a relevant impact on the welfare of an employee
-- The firm benefits from a reduction in influence costs but is little affected by the particular outcome of the decision process
-
-## Cases to Discuss
-- Present an real case related to some of the topics of the class.
-- The case should be based on recent news (<2 years) and preferably related to Spanish companies/cases.
-- Start the presentation with the context behind the event/decision/case, then identify the relevant concepts, to finally conclude/assess the case.
-- 10 min, 7-11 slides
-- Examples:
-  1) decision rights and companies moving from (to) centralization to (from) decentralization.
-  2) how does multinational company solve the problem of distributing specific knowledge?
-  3) coordination costs and its solution in big companies
-  4) influence cost/lobbying in large corporations (top management team and Directors)
+- In cases where the firm’s profits are unaffected by decisions with a relevant impact on the welfare of an employee.
+- The firm benefits from a reduction in influence costs but is little affected by the particular outcome of the decision process.
 
 ## Summary
 
@@ -257,3 +244,19 @@ Main Concepts:
 - Lateral decision rights
 - Decision Management and Control
 - Influence cost
+
+## Cases to Discuss
+- Present an real case related to some of the topics of the class.
+- The case should be based on recent news (<2 years) and preferably related to Spanish companies/cases.
+- Start the presentation with the context behind the event/decision/case, then identify the relevant concepts, to finally conclude/assess the case.
+- 10 min, 7-11 slides
+- Examples:
+  1) decision rights and companies moving from (to) centralization to (from) decentralization.
+  2) how does multinational company solve the problem of distributing specific knowledge?
+  3) coordination costs and its solution in big companies
+  4) influence cost/lobbying in large corporations (top management team and Directors)
+
+**Questions?**
+Check my website for an updated version of this presentation:
+
+[https://www.marceloortizm.com/](https://www.marceloortizm.com)

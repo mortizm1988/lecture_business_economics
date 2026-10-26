@@ -25,13 +25,17 @@ format:
 from: markdown-smart
 ---
 
-## Business Economics {.title-slide}
+## Business Economics: Topic 5 {.title-slide}
 
 ::: title-rule
 :::
 
 ::: title-meta
 Marcelo Ortiz M.
+:::
+::: title-note
+Department of Economics and Business  
+Universitat Pompeu Fabra
 :::
 
 ## Topic 5: Decision Rights and Multiple Tasks
@@ -46,7 +50,9 @@ Marcelo Ortiz M.
 ::: {.column width="58%"}
 - So far, we have discussed one of the dimensions of a job: decision authority
 - We move now to the second dimension: the variety of tasks
-- When bundling tasks into jobs, there are two options Specialized task assignment Broad task assignment
+- When bundling tasks into jobs, there are two options:
+  1. Specialized task assignment
+  2.  Broad task assignment
 :::
 
 ::: {.column width="42%"}
@@ -55,44 +61,116 @@ Marcelo Ortiz M.
 :::::
 
 ## Bundling tasks into jobs
-- Example: Taylor Inc is a financial consultancy company, specialized in international taxation and ESG. Let’s consider just two functions that have to be done in the company: 1) Selling consultancy services 2) Providing consultancy services Notice that these functions can be partitioned into multiple small tasks 1) Selling: finding new clients, contact them, visit them and present services, closing contracts. 2) Providing the service: meetings to understand the situation, prepare solutions, present solutions For simplicity, we should ignore the small tasks for now.
+- Example: Taylor Inc is a financial consultancy company, specialized in international taxation and ESG. Let’s consider just two functions that have to be done in the company:
+ 1) Selling consultancy services  
+ 2) Providing the service
+
+Notice that these functions can be partitioned into multiple small tasks 1) Selling: finding new clients, contact them, visit them and present services, closing contracts.  2) Consulting: meetings to understand the situation, prepare solutions, present solutions.
+
+For simplicity, we should ignore the small tasks for now.
 
 ## Bundling tasks into jobs
-- Example:
-  - How can Taylor Inc. bundle the tasks into jobs? At least 4 options make sense, let’s see why 1 job (no specialization) Sale Service 2 jobs ( Sales and Service) 2 jobs ( ESG. and Taxation) 4 jobs (fully specialized) Taxation Task 1 Task 2
-  - ESG Task 3 Task 4
+
+ How can Taylor Inc. bundle the tasks into jobs? At least 4 options:
+ 
+  a. 1 job (no specialization) 
+  b. 2 jobs (Sales and Service)
+  c. 2 jobs (ESG. and Taxation) 
+  d. 4 jobs (fully specialized) 
+
 
 ## Bundling tasks into jobs
-- Cost and Benefit of Specialized Task assignments
-  - Benefits Costs
-  - Comparative advantage - Forgone complementarities - Economies of scale (selling and product-design in tailored products; 2 related - No need for cross- steps in an assembly line: audio system and speakers) training expenses - Coordination costs (regular meetings+new orders; exceptions handling, information systems) - Functional Myopia (decisions are not considering the big picture: selling products than will not fulfill client’s requirements) - Reduced flexibility (what if the specialized worker is sick or on vacation?
+
+::::: columns
+::: {.column width="50%"}
+### Benefits of specialized task assignments
+
+- Comparative advantage
+- Economies of scale
+- No need for cross-training expenses
+:::
+
+::: {.column width="50%"}
+### Costs of specialized task assignments
+
+- Forgone complementarities, for example between selling and product design in tailored products, or between related assembly-line steps
+- Coordination costs, including regular meetings, new orders, exceptions handling, and information systems
+- Functional myopia, when decisions do not account for the big picture or client requirements
+- Reduced flexibility, for example when a specialized worker is sick or on vacation
+:::
+:::::
 
 ## Bundling tasks into jobs
 - Example 1: analyze the benefits/costs for the specialized task assignment in Taylor Inc. When fully specialization is better?
 - Example 2: repeat the same analysis for a Bank: Tasks: lending and selling insurances Clients: individuals and corporations
 
 ## Bundling of Jobs into Subunits
-- Managers are confronted with a similar economic problem (“trade-off) when assigning jobs to business units, subsidiaries, departments. Groups/subunits lower communication/coordination costs within the group However, managers must coordinate across groups How to group? 1) by function ( Apple) 2) by product-type or geography ( Aena) 3) there are more options!
+- Managers are confronted with a similar economic problem (“trade-off) when assigning jobs to business units, subsidiaries, departments. 
+  - Groups/subunits: lower communication/coordination costs within the group.
+- However, managers must coordinate across groups.
+ 
+How to group? 
+
+1) by function (Apple) 
+2) by product-type or geography (Aena) 
+3) there are more options!
 
 ## Grouping by Function
-- The idea here is to group jobs into a functional specialty: sales, finance, R&D, operations.
-- In the case of Taylor Inc.: CEO
-  - Procedures for: (1)information flow (2)handling special cases
-  - Sales Dep. Service Dep.
+The idea here is to group jobs into a functional specialty: sales, finance, R&D, operations.
+
+In the case of Taylor Inc.: 
+
+  1. CEO
+  2. Sales Dep // Service Dep.
+
+Procedures for: (1) information flow (2) handling special cases.
 
 ## Trade-offs of grouping by function
-- Benefits Costs
-- Effective coordination within areas - Opportunity cost of the - Generation of functional expertise time/resources spent in coordination - Clear promotion path across areas - Economies of scale - Lack of focus on the big picture: clients, operative solutions - Less effective use of product or geographic information
+
+::::: columns
+::: {.column width="50%"}
+### Benefits of grouping by function
+
+- Effective coordination within functional areas
+- Generation of functional expertise
+- Clear promotion paths
+- Economies of scale
+:::
+
+::: {.column width="50%"}
+### Costs of grouping by function
+
+- Opportunity cost of the time and resources spent coordinating across areas
+- Lack of focus on the big picture, including clients and operative solutions
+- Less effective use of product or geographic information
+:::
+:::::
 
 ## Grouping by Product-type or Geography
-- Mostly known as multidivisional form
-- The jobs are grouped into business units based on products or locations Strategic decisions: organizational design, allocation of capital, CEO divisions creation/closure
+- Mostly known as multidivisional form.
+- The jobs are grouped into business units based on products or locations 
+  - Strategic decisions: organizational design, allocation of capital, project creation/closure.
   - Operative decisions: visiting clients, pricing, consultancy Taxation Div. ESG Div,
-  - Each Division has its Sales and Service Dep.
+  - e.g., each Division has its Sales and Service Dep.
 
 ## Trade-offs of grouping by product or geography
-- Benefits Costs
-- Decisions rights for operation are - units optimization might not be located where the relevant equivalent to the firm’s value knowledge is. optimization (interdependencies and - Lower coordination cost across synergies: shared resources and departments within a division units competition) - Senior management focuses on the -Splitting personnel of the same overall performance and main department makes more difficult to strategy transfer new knowledge.
+
+::::: columns
+::: {.column width="50%"}
+### Benefits of grouping by product or geography
+
+- Decision rights for operations are located where the relevant knowledge is
+- Lower coordination costs across departments within a division
+- Senior management can focus on overall performance and strategy
+:::
+
+::: {.column width="50%"}
+### Costs of grouping by product or geography
+
+- Unit optimization may not be equivalent to firm-value optimization because of interdependencies, shared resources, and competition across units
+- Splitting personnel from the same functional department can make it harder to transfer new knowledge
+:::
+:::::
 
 ## Where functional units work best?
 - Small companies (although there are exemptions for this rule: Apple)
@@ -100,22 +178,40 @@ Marcelo Ortiz M.
 - Slow rate of innovation in the industry
 
 ## How to get the best of both systems?
-- Matrix Organizations: functional departments but the employees from the departments are assigned to units (products, geography, specific projects) Double reporting: functional manager and product manager Departments (functional unit) serve to develop field knowledge and career, as well as to evaluate performance (specific knowledge from the unit + comments of product manager)
-- Example: In the case of hospitals, indicate the product/services and functional units.
+- Matrix Organizations: functional departments but the employees from the departments are assigned to units (products, geography, specific projects).
+  - Double reporting: functional manager and product manager.
+  - Departments (functional unit) serve to develop field knowledge and career, as well as to evaluate performance (specific knowledge from the unit + comments of product manager).
+- Example 1: In the case of hospitals, indicate the product/services and functional units.
 - Example 2: In the case of construction companies, indicate the product/services and functional units.
 
 ## How to get the best of both systems?
-- Matrix Organizations enable employees to focus on the overall business unit, keeping functional supervision in place
-- Problems 1) intersection of authority lines (solution: compensation scheme) 2) higher influence cost 3) complex management can delay decision making
+- Matrix Organizations enable employees to focus on the overall business unit, keeping functional supervision in place.
+- Problems 
+  1) intersection of authority lines (solution: compensation scheme) 
+  2) higher influence cost 
+  3) complex management can delay decision making
 
 ## Mixed and Network organizations
-- Mixed: firms use more than one method to organize subunits: some of them use functional design whereas others use product grouping Ex. Banks and “premium banking” using cross-trained executives for selling multiple products to sophisticated clients. At the same time, for regular clients, the banks have an executive that redirect cases to different areas in cases needed (loans, mortgages, Mutual funds,...) Network: division based on function/geography/product and work-groups act (or are) as independent organizations with no formal lines of authority. Ex. Keiretsu.
+- Mixed: firms use more than one method to organize subunits: some of them use functional design whereas others use product grouping.
+  - Ex. Banks and “premium banking” using cross-trained executives for selling multiple products to sophisticated clients. At the same time, for regular clients, the banks have an executive that redirect cases to different areas in cases needed (loans, mortgages, Mutual funds,...).
+- Network: division based on function/geography/product and work-groups act (or are) as independent organizations with no formal lines of authority. Ex. Keiretsu.
 
 ## Summary
 - Main concepts:
-- Task → jobs ● Specialization vs broad task assignment ● Centralization vs decentralization ● Jobs → units ● Assignment by functionality or product/geography ● Matrix and Network designs ●
+- Task → jobs 
+- Jobs → units
+- Specialization vs broad task assignment
+- Assignment by functionality or product/geography
 
 ## Cases to Discuss
+- Present an real case related to some of the topics of the class.
+- The case should be based on recent news (<2 years) and preferably related to Spanish companies/cases.
 - Identify a bank/consultancy/manufacturer in Spain.
 - Read annual reports and news. Identify their organizational structure and provide an explanation and comparison.
 - 10 min, 7-11 slides.
+
+**Questions?**
+
+Check my website for an updated version of this presentation:
+
+[https://www.marceloortizm.com/](https://www.marceloortizm.com)
