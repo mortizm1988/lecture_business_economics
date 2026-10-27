@@ -40,19 +40,19 @@ Universitat Pompeu Fabra
 
 ## Topic 5: Decision Rights and Multiple Tasks
 - Objectives:
-- 1) Explain the trade-off of specialization in task assignments
-- 2) Identify the types of firm growth and the factor that determine them
-- 3) Identify Matrix, Mixed, and Network organizations
+  1) Explain the trade-off of specialization in task assignments.
+  2) Identify the types of firm growth and the factor that determine them.
+  3) Identify Matrix, Mixed, and Network organizations.
 
 ## Bundling tasks into jobs
 
 ::::: columns
 ::: {.column width="58%"}
-- So far, we have discussed one of the dimensions of a job: decision authority
-- We move now to the second dimension: the variety of tasks
+- So far, we have discussed one of the dimensions of a job's decision-right assignment: decision authority.
+- We move now to the second dimension: the variety of tasks.
 - When bundling tasks into jobs, there are two options:
   1. Specialized task assignment
-  2.  Broad task assignment
+  2. Broad task assignment
 :::
 
 ::: {.column width="42%"}
@@ -61,7 +61,9 @@ Universitat Pompeu Fabra
 :::::
 
 ## Bundling tasks into jobs
-- Example: Taylor Inc is a financial consultancy company, specialized in international taxation and ESG. Let’s consider just two functions that have to be done in the company:
+
+**Example**: Taylor Inc is a financial consultancy company, specialized in international taxation and ESG. Let’s consider just two functions that have to be done in the company:
+
  1) Selling consultancy services  
  2) Providing the service
 

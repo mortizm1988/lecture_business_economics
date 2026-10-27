@@ -25,7 +25,7 @@ format:
 from: markdown-smart
 ---
 
-## Business Economics {.title-slide}
+## Business Economics: Topic 6 {.title-slide}
 
 ::: title-rule
 :::
@@ -33,39 +33,59 @@ from: markdown-smart
 ::: title-meta
 Marcelo Ortiz M.
 :::
+::: title-note
+Department of Economics and Business  
+Universitat Pompeu Fabra
+:::
 
 ## Topic 6: Performance Evaluation
-- Objectives
-- 1) understand the different dimensions of performance
-- 2) identify appropriate evaluation methods
-- 3) list examples of how an employee can game performance measurement
-- 4) explain the benefits and cost of relative performance evaluation
-- 5) explain the benefits and cost of and subjective performance evaluation
+Objectives
+
+ 1) understand the different dimensions of performance
+ 2) identify appropriate evaluation methods
+ 3) list examples of how an employee can game performance measurement
+ 4) explain the benefits and cost of relative performance evaluation
+ 5) explain the benefits and cost of and subjective performance evaluation
 
 ## Why performance evaluation is needed?
-- 1) to provide feedback on job achievements that allows improvements
-  - Additional training, failures points
-- 2) to determine rewards and sanctions
-  - Wage, rises, bonuses, promotion, dismissals
-- Notice that both roles create different incentives for employees.
-  - 1) no incentive to distort the evaluation
-  - 2) incentive to distort the evaluation
-- In this topic, we will focus on its role in rewarding
+
+1) to provide feedback on job achievements that allows improvements
+   - Additional training, failures points
+2) to determine rewards and sanctions
+   - Wage, rises, bonuses, promotion, dismissals
+
+ Notice that both roles create different incentives for employees.
+
+   1) no incentive to distort the evaluation
+   2) incentive to distort the evaluation
+
+
 
 ## Principal-Agent Model: revisited
-- Employee’s output “Q” depends on effort “e” and a random component “μ”:
-- Q = α e + μ Where “ α” is the employee’s marginal productivity known by the management and the employee, and “e” and “μ” are not observable by management
-- If the employee received a fixed compensation scheme independent of the output, he has incentives to shirk because low Q can be blamed on negative μ
-- To limit this behavior, the compensation contract is based on the output
-- Employee Compensation= W + Q d 0 Where is the sensitivity of pay to performance. d
+Employee’s output “Q” depends on effort “e” and a random component “μ”:
+  $$Q=\alpha \times e + \mu $$
+Where “α” is the employee’s marginal productivity known by the management and the employee, and “e” and “μ” are not observable by management.
 
-## Principal-Agent Model: revisited
-- This compensation contract reduces shirking on effort but also impose risk on employee because its payment is a function of μ
-- Since the employee is risk-averse, the firm must compensate him for bearing the risk, or the employee will choose to work elsewhere
+- If the employee received a fixed compensation scheme independent of the output, he has incentives to shirk because low Q can be blamed on negative μ.
+
+To limit this behavior, the compensation contract is based on the output.
+  $$Compensation= W + Q \times \theta $$
+
+Where $\theta$ is the sensitivity of pay to performance. 
+
+---
+- This compensation contract reduces shirking on effort but also impose risk on employee because its payment is a function of μ.
+- Since the employee is risk-averse, the firm must compensate him for bearing the risk, or the employee will choose to work elsewhere.
 
 ## Difficulties on measuring performance Q
-- Performance (or Output) Q can be: ● Observable (fruit pickers) or non-observable at the moment of evaluation. ● If observable, then is contractible. ● Multidimensional
-- Types of non-observable: ● because its intangible nature (Brand Specialist, R&D Researcher) ● because require time to materialize (Product Design) ● because Q depends on a team or dependencies across employees.
+- Performance (or Output) Q can be: 
+   - Observable (e.g., fruit pickers) or non-observable at the moment of evaluation (R&D cienntist). 
+     - If observable, then is contractible. 
+   - Multidimensional
+- Types of non-observable: 
+  - because its intangible nature (Brand Specialist, R&D Researcher).
+  - because require time to materialize (Product Design).
+  - because Q depends on a team or dependencies across employees.
 
 ## Measurement cost
 - When employee’s output is not observable in a reasonable time period, the performance evaluation becomes more complicated.
@@ -73,82 +93,97 @@ Marcelo Ortiz M.
   - School teachers
   - Lab researcher
 - Performance evaluation can be quite costly:
-  - Technology: workers’ effort and heart monitors
-  - Specific-knowledge: hiring top leading scientists to evaluate the performance of lab researchers
+  - Technology: workers’ effort and heart monitors.
+  - Specific-knowledge: hiring top leading scientists to evaluate the performance of lab researchers.
 
 ## Measurement cost
 - But which is the benefit of using costly measures for evaluating performance?
   - It reduces the compensation differential the firm must pay the employee to bear the risk of being evaluated with exogenous random risk.
 - Therefore, a value-maximizing firm will go to the point where the incremental cost of an additional performance measure equals the incremental benefits (lower risk-premium compensation)
 - If the Q measure is really too costly, firms rely on proxies (Y).
-  - However, this might generate opportunism: short-termism and gaming
+  - However, this might generate opportunism: short-termism and gaming.
 
 ## Measurement cost
 - Short-termism: enhancing current-period Y at the cost of reducing the long-term Q
-  - Ex: a CEO cutting R&D expenses for beating current profit benchmark
-- Gaming: if Q is not measured and the benchmark is another variable Y, then the incentive is to increase Y (and not necessarily Q)
-  - Ex: policeman arresting drivers unnecessarily because his evaluation considers the number of arrests (Y) while the real outcome is the number of reckless drivers arrested (Q). Q and Y are correlated, but are not the same
+  - Ex: a CEO cutting R&D expenses for beating current profit target.
+- Gaming: if Q is not measured and the benchmark is another variable Y, then the incentive is to increase Y (and not necessarily Q).
+  - Ex: policeman arresting drivers unnecessarily because his evaluation considers the number of arrests (Y) while the real outcome is the number of reckless drivers arrested (Q). Q and Y are correlated, but are not the same.
 
 ## Measuring Q: Setting Performance Benchmark
-- (a) Time and motion studies: systematic analysis of work methods, ranging from the raw material and each step until deliver of the final product.
+(a) **Time and motion studies**: systematic analysis of work methods, ranging from the raw material and each step until deliver of the final product.
   - How long does each activity take?
   - Work sampling
-- Example: process of delivering a passport in a civil registry. Assembly lines. These types of studies are expensive
-- Engineers time, need to be updated frequently Incentives? Bias from employees to generate worse metric during the study
+Example: process of delivering a passport in a civil registry.
+
+Costly: These types of studies are expensive: external consultants, specific knowledge, equipments, and need to be updated.
+
+ Incentives? Bias from employees to generate worse metric during the study
 
 ## Measuring Q: Setting Performance Benchmark
-- (b) Past performance and the Ratchet effect
+(b) **Past performance** 
   - Another way to define a benchmark is by using past years performance
-  - But this might not be a clever idea: the Ratchet effect refers to basing next year’s benchmark on this year’s performance.
+  - But this might not be a clever idea: the **Ratchet effect** refers to basing next year’s benchmark on this year’s performance.
   - The problem: benchmark is more likely to move up or not move at all (not adjusted by bad year, not symmetric).
-- This effect discourages employees from exceeding the benchmark substantially to avoid raising the standard for future years Example: discuss the incentives created by the following benchmarks if are used in compensation contracts:
-  - 1) last year’s sales for a salesperson’s bonus
-  - 2) an assembly plant punishing employees not meeting past’s year production but rewarding those who beat it
+- This effect discourages employees from exceeding the benchmark substantially to avoid raising the standard for future years.
+
+Example: discuss the incentives created by the following benchmarks if are used in compensation contracts:
+
+  - 1) last year’s sales for a salesperson’s bonus.
+  - 2) an assembly plant reducing employees' compensation for not meeting past’s year production but rewarding those who beat it.
 
 ## Measuring Q: Setting Performance Benchmark
-- Potential solutions:
-  - 1) Once the benchmark is defined, it is not changed until a new production/selling technology is implemented, no matter how much money the employees obtain.
-  - 2) Rotation
+Potential solutions:
+
+- 1) Once the benchmark is defined, it is not changed until a new production/selling technology is implemented, no matter how much money the employees obtain.
+- 2) Rotation
 
 ## Measuring Q: Relative Performance Evaluation
-- a) Within-firm performance
-  - Employees within the same unit/firm face the same risk factors: economic fluctuations, competitors, quality of inputs, etc
-  - Therefore, using peers from within the unit as a benchmark for evaluating performance allows swiping the common risk factor from the observed performance
+a) **Within-firm performance**
+
+  - Employees within the same unit/firm face the same risk factors: economic fluctuations, competitors, quality of inputs, etc.
+  - Therefore, using peers from within the unit as a benchmark for evaluating performance allows swiping the common risk factor from the observed performance.
   - If a salesperson typically sells \$1,000 in a month, but their sales for the month in question are \$700, the sales manager can evaluate other salespersons' performances to see if they also experienced a 30% reduction in sales.
-  - Problem 1: punishment of rate busters, sabotage, and collusion
-  - Problem 2: incentives for recruiting worse candidates (to improve the relative performance of current employees)
+  - Problem 1: punishment of rate busters, sabotage, and collusion.
+  - Problem 2: incentives for recruiting worse candidates (to improve the relative performance of current employees).
 
 ## Measuring Q: Relative Performance Evaluation
-- b) Across-firm performance
-  - It’s useful when there is a lack of an internal reference group (CEOs) or the incentives for pernicious actions of sabotage and collusion are high
-  - The information can be shared directly or indirectly (trade associations and consultants)
-  - Problems:
-  - Antitrust law and competition
-  - Firms might have different assignments of decision rights for the same position
-  - External shocks in employees’ performance can be unrelated
+
+b) **Across-firm performance**
+
+  - It’s useful when there is a lack of an internal reference group (CEOs) or the incentives for pernicious actions of sabotage and collusion are high.
+  - The information can be shared directly or indirectly (trade associations and consultants).
+  
+  Problems:
+  
+  - Antitrust law and competition.
+  - Firms might have different assignments of decision rights for the same position.
+  - External shocks in employees’ performance can be unrelated.
 
 ## Measuring Q: Subjective Performance Evaluation
-- Many important dimensions of performance can not be objectively measured
-- Ex: mentoring and team collaboration If third parties cannot verify measures of these dimensions, they are considered subjective measures
-- Subjective measures allow a more holistic evaluation of the employee’s performance
-- A complete objective performance evaluation is too costly In practice, most employees receive a subjective performance evaluation from their supervisors in annual meetings/review
+- Many important dimensions of performance can not be objectively measured.
+- Ex: mentoring and team collaboration If third parties cannot verify measures of these dimensions, they are considered subjective measures.
+- Subjective measures allow a more holistic evaluation of the employee’s performance.
+- A complete objective performance evaluation is too costly. In practice, most employees receive a subjective performance evaluation from their supervisors in annual meetings/review.
 
 ## Measuring Q: Subjective Performance Evaluation
-- Methods: a) standard-rate scale system The evaluator ranks (0-5) the employee using performance factors such as organizational efficiency, teamwork, achievements, identification and solution of new problems. Then the evaluator assigns an overall rank and provides suggestion b) goal-based system The goals must inform the evaluator about subjective measures of performance (ex, teamwork) The goals tend to be easy to measure Ex: “No complain from group peers until 1 December”, “create and hold a monthly mentoring session for junior colleagues” The evaluator considers the degree of general achievement of the set of goals
+Methods: 
+
+a) standard-rate scale system: The evaluator ranks (0-5) the employee using performance factors such as organizational efficiency, teamwork, achievements, identification and solution of new problems. Then the evaluator assigns an overall rank and provides suggestion.
+b) goal-based system: The goals must inform the evaluator about subjective measures of performance (ex, teamwork). The goals tend to be easy to measure, ex: “No complain from group peers until 1 December”, “create and hold a monthly mentoring session for junior colleagues”. The evaluator considers the degree of general achievement of the set of goals
 
 ## Measuring Q: Subjective Performance Evaluation
 - Problems:
-  - Different evaluators, different criteria
-  - Employee responses or explanation might be foregone
-  - Training supervisors to become evaluators
-  - Collusion and friendships
-  - Shirking among supervisors and inaccurate measures
-  - Influence cost (again!)
+  - Different evaluators, different criteria.
+  - Employee responses or explanation might be foregone.
+  - Training supervisors to become evaluators.
+  - Collusion and friendships.
+  - Shirking among supervisors and inaccurate measures.
+  - Influence cost (again!).
 
 ## Measuring Q: Combination of performance measure
-- Remember the informativeness principle
-- Although both objective and subjective performance measures can be inaccurate measures of the contribution to the firm value of each employee, they increase the accuracy in their performance evaluation
-- More accuracy → less risk-bearing for the employee → lower the risk compensation the firm must pay However, as discussed before, they can also lead to dysfunctional behaviors
+- Remember the informativeness principle.
+- Although both objective and subjective performance measures can be inaccurate measures of the contribution to the firm value of each employee, they increase the accuracy in their performance evaluation.
+- More accuracy → less risk-bearing for the employee → lower the risk compensation the firm must pay However, as discussed before, they can also lead to dysfunctional behaviors.
 - The ideal compensation contract includes a set of performance metrics that reduce the likelihood or the cost of such undesirable behaviors.
 
 ## Summary
@@ -162,10 +197,13 @@ Marcelo Ortiz M.
 
 ## Cases to Discuss
 - Present an real case related to some of the topics of the class.
-  - The case should be based on recent news (<2 years) and preferably related to Spanish companies/cases.
-  - Start the presentation with the context behind the event/decision/case, then identify the relevant concepts, to finally conclude/assess the case.
-  - 10 min, 7-11 slides
-  - Examples:
-  - 1) Short-termism and firm cutting investment/stopping projects
-  - 2) Gaming and accounting manipulation/scandals in Spain/EU
-  - 3) Combined methods: Cases of 360-performance evaluation in Spain/EU
+- Examples:
+    1) Short-termism and firm cutting investment/stopping projects
+    2) Gaming and accounting manipulation/scandals in Spain/EU
+    3) Combined methods: Cases of 360-performance evaluation in Spain/EU
+
+**Questions?**
+
+Check my website for an updated version of this presentation:
+
+[https://www.marceloortizm.com/](https://www.marceloortizm.com)
