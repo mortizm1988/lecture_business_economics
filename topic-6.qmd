@@ -80,7 +80,7 @@ Where $\theta$ is the sensitivity of pay to performance.
 ## Difficulties on measuring performance Q
 - Performance (or Output) Q can be: 
    - Observable (e.g., fruit pickers) or non-observable at the moment of evaluation (R&D cienntist). 
-     - If observable, then is contractible. 
+      - If observable, then is contractible. 
    - Multidimensional
 - Types of non-observable: 
   - because its intangible nature (Brand Specialist, R&D Researcher).
@@ -89,53 +89,53 @@ Where $\theta$ is the sensitivity of pay to performance.
 
 ## Measurement cost
 - When employee’s output is not observable in a reasonable time period, the performance evaluation becomes more complicated.
-  - Patent attorneys
-  - School teachers
-  - Lab researcher
+   - Patent attorneys
+   - School teachers
+   - Lab researcher
 - Performance evaluation can be quite costly:
-  - Technology: workers’ effort and heart monitors.
-  - Specific-knowledge: hiring top leading scientists to evaluate the performance of lab researchers.
+    - Technology: workers’ effort and heart monitors.
+    - Specific-knowledge: hiring top leading scientists to evaluate the performance of lab researchers.
 
 ## Measurement cost
 - But which is the benefit of using costly measures for evaluating performance?
-  - It reduces the compensation differential the firm must pay the employee to bear the risk of being evaluated with exogenous random risk.
+   - It reduces the compensation differential the firm must pay the employee to bear the risk of being evaluated with exogenous random risk.
 - Therefore, a value-maximizing firm will go to the point where the incremental cost of an additional performance measure equals the incremental benefits (lower risk-premium compensation)
 - If the Q measure is really too costly, firms rely on proxies (Y).
-  - However, this might generate opportunism: short-termism and gaming.
+   - However, this might generate opportunism: short-termism and gaming.
 
 ## Measurement cost
 - Short-termism: enhancing current-period Y at the cost of reducing the long-term Q
-  - Ex: a CEO cutting R&D expenses for beating current profit target.
+   - Ex: a CEO cutting R&D expenses for beating current profit target.
 - Gaming: if Q is not measured and the benchmark is another variable Y, then the incentive is to increase Y (and not necessarily Q).
-  - Ex: policeman arresting drivers unnecessarily because his evaluation considers the number of arrests (Y) while the real outcome is the number of reckless drivers arrested (Q). Q and Y are correlated, but are not the same.
+   - Ex: policeman arresting drivers unnecessarily because his evaluation considers the number of arrests (Y) while the real outcome is the number of reckless drivers arrested (Q). Q and Y are correlated, but are not the same.
 
 ## Measuring Q: Setting Performance Benchmark
 (a) **Time and motion studies**: systematic analysis of work methods, ranging from the raw material and each step until deliver of the final product.
-  - How long does each activity take?
-  - Work sampling
-Example: process of delivering a passport in a civil registry.
+    - How long does each activity take?
+    - Work sampling
+Example: process of processing and delivering a passport in a civil registry.
 
 Costly: These types of studies are expensive: external consultants, specific knowledge, equipments, and need to be updated.
 
- Incentives? Bias from employees to generate worse metric during the study
+Incentives? Bias from employees to generate worse metric during the study.
 
 ## Measuring Q: Setting Performance Benchmark
 (b) **Past performance** 
-  - Another way to define a benchmark is by using past years performance
-  - But this might not be a clever idea: the **Ratchet effect** refers to basing next year’s benchmark on this year’s performance.
-  - The problem: benchmark is more likely to move up or not move at all (not adjusted by bad year, not symmetric).
-- This effect discourages employees from exceeding the benchmark substantially to avoid raising the standard for future years.
+    - Another way to define a benchmark is by using past years performance.
+    - But this might not be a clever idea: the **Ratchet effect** refers to basing next year’s benchmark on this year’s performance.
+    - The problem: benchmark is more likely to move up or not move at all (not adjusted by bad year, not symmetric).
+    - This effect discourages employees from exceeding the benchmark substantially to avoid raising the standard for future years.
 
 Example: discuss the incentives created by the following benchmarks if are used in compensation contracts:
 
-  - 1) last year’s sales for a salesperson’s bonus.
-  - 2) an assembly plant reducing employees' compensation for not meeting past’s year production but rewarding those who beat it.
+   1) last year’s sales for a salesperson’s bonus.
+   2) an assembly plant reducing employees' compensation for not meeting past’s year production but rewarding those who beat it.
 
 ## Measuring Q: Setting Performance Benchmark
 Potential solutions:
 
 - 1) Once the benchmark is defined, it is not changed until a new production/selling technology is implemented, no matter how much money the employees obtain.
-- 2) Rotation
+- 2) Rotation.
 
 ## Measuring Q: Relative Performance Evaluation
 a) **Within-firm performance**
@@ -161,7 +161,7 @@ b) **Across-firm performance**
 
 ## Measuring Q: Subjective Performance Evaluation
 - Many important dimensions of performance can not be objectively measured.
-- Ex: mentoring and team collaboration If third parties cannot verify measures of these dimensions, they are considered subjective measures.
+   - Ex: mentoring and team collaboration: If third parties cannot verify measures of these dimensions, they are considered subjective measures.
 - Subjective measures allow a more holistic evaluation of the employee’s performance.
 - A complete objective performance evaluation is too costly. In practice, most employees receive a subjective performance evaluation from their supervisors in annual meetings/review.
 
@@ -183,7 +183,8 @@ b) goal-based system: The goals must inform the evaluator about subjective measu
 ## Measuring Q: Combination of performance measure
 - Remember the informativeness principle.
 - Although both objective and subjective performance measures can be inaccurate measures of the contribution to the firm value of each employee, they increase the accuracy in their performance evaluation.
-- More accuracy → less risk-bearing for the employee → lower the risk compensation the firm must pay However, as discussed before, they can also lead to dysfunctional behaviors.
+- More accuracy → less risk-bearing for the employee → lower the risk compensation the firm must pay.
+    -  However, as discussed before, they can also lead to dysfunctional behaviors.
 - The ideal compensation contract includes a set of performance metrics that reduce the likelihood or the cost of such undesirable behaviors.
 
 ## Summary
