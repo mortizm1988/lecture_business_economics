@@ -38,6 +38,7 @@ Department of Economics and Business
 Universitat Pompeu Fabra
 :::
 
+
 ## Topic 4: Teams and Decision Rights
 - Objectives:
 - 1) Explain how works vary in their assignment of tasks and decision authority
