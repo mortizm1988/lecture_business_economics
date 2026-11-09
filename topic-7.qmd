@@ -17,7 +17,7 @@ format:
     transition: fade
     auto-stretch: false
     embed-resources: true
-    html-math-method: plain
+    html-math-method: mathjax
     slide-level: 2
     navigation-mode: linear
     keyboard: true
@@ -33,123 +33,192 @@ from: markdown-smart
 ::: title-meta
 Marcelo Ortiz M.
 :::
+::: title-note
+Department of Economics and Business\
+Universitat Pompeu Fabra
+:::
 
-## Topic 6: Incentive Compensation
-- Objectives:
-- 1) understand the role of compensation in the incentive problem
-- 2) understand ownership as a solution mechanism
-- 3) list the associated factors that favor high-incentive pay
-- 4) define the informativeness principle
+## Topic 7: Incentive Compensation
+
+Objectives:
+
+1. Explain how compensation can mitigate incentive problems.
+2. Understand ownership as an incentive mechanism.
+3. Identify the factors that favor high-powered incentives.
+4. Define the informativeness principle.
 
 ## The basic incentive problem
-- Timeline of the contract:
-  - Time Event
-  - t=0 Contract is designed: F(output)=compensation t=1 Contract is offered (and potentially ~ e accepted) t=2 Employee exerts effort t=3 Employee is compensated
+
+Timeline of the contract:
+
+1. At $t=0$, the firm designs a compensation function, $I(Q)$.
+2. At $t=1$, the firm offers the contract and the employee decides whether to accept it.
+3. At $t=2$, the employee chooses effort, $e$.
+4. At $t=3$, output is realized and the firm pays the employee.
 
 ## The basic incentive problem
-- Let’s consider the following case of designing a compensation contract Preferences of an employee with respect the income (I) and effort (e) are measured as working hours: U(I,e)=I-e 2 ● Reservation utility = \$1.000 (the company must meet this level, or the employee will not work for the firm.) B(e)=\$100e: the revenues for the firm driven by the employee’s effort choice e. Big assumption: effort is costlessly observable and verifiable, so the effort is contractible. ~ In this case, the contract offers a sum of money if and only if the employee provides a specified level of effort e The sum of money must be at least the reservation utility ~ 2 So the contract must provide the following compensation scheme: \$ 1.000 e +() Thus, firm’s profit is: ~ ~ 2 π = 100 e −[ 1.000 +( e) ]
+
+- The employee's utility depends on income, $I$, and effort, $e$:
+
+  $$U(I,e)=I-e^2.$$
+
+- The employee's reservation utility is 1,000. The firm must offer at least this level of utility.
+- The employee's effort generates revenue of $B(e)=100e$.
+- If effort is observable and verifiable, the firm can make compensation conditional on $e$:
+
+  $$I(e)=1{,}000+e^2, \qquad \pi(e)=100e-\left(1{,}000+e^2\right).$$
 
 ## The basic incentive problem
 
 ::::: columns
-::: {.column width="58%"}
-- The firm will chose the optimal effort that maximizes its profit
-  - The optimal compensation contract sets effort in e * =50 hrs.
-  - -Salary * =1000+50^2=\$3.500. -Firms profit * =\$1.500. -Utility=3.500-50^2=\$1.000.
+::: {.column width="50%"}
+
+- The firm chooses the effort level that maximizes profit:
+
+  $$\frac{d\pi}{de}=100-2e=0 \quad \Rightarrow \quad e^*=50.$$
+
+- At the optimum:
+
+  $$I^*=1{,}000+50^2=3{,}500,$$
+  $$\pi^*=100(50)-3{,}500=1{,}500,$$
+  $$U^*=3{,}500-50^2=1{,}000.$$
+
 :::
 
-::: {.column width="42%"}
+::: {.column width="50%"}
 ![](topic-7_files/slide-005-graphics.svg){width="100%"}
 :::
 :::::
 
 ## The basic incentive problem
-- This solution is not feasible in real life:
-- The output is not observable and can be affected by external factors beyond the employee’s control. So if the effort is not contractable, how can the employee promise to provide 50 hrs of effort?
-  - The employee can stay at the office for 50 hrs but working less efficiently (whatsapp!)
-- Why might a company pay him a fixed salary of \$3.500 if he has the incentive to renege on his promise and provide less effort? The company can suspect it but would not know for sure.
-- So what type of contract solves this incentive problem?
+
+- This solution is difficult to implement because effort is rarely observable and verifiable.
+- Output can also depend on factors beyond the employee's control.
+- An employee may spend 50 hours at the office but work inefficiently during that time.
+- A fixed salary of 3,500 gives the employee an incentive to provide less effort than promised.
+- The firm may suspect low effort, but it cannot verify it with certainty.
+- What type of contract can address this incentive problem?
 
 ## The basic incentive problem
-- This simple example illustrates three important points
-  - 1) if employees and employers have perfectly aligned interests, there is no reason to worry about incentives.
-  - 2) incentive problems are not problematic when actions are contractible/verifiable.
-  - 3) in a competitive labor market, employees must be compensated for undertaking undesirable actions
+
+This example illustrates three points:
+
+1. Incentive problems disappear when the employee's and employer's interests are fully aligned.
+2. Incentive problems are easier to solve when actions are observable, verifiable, and contractible.
+3. In a competitive labor market, employees must be compensated for costly or undesirable actions.
 
 ## Incentives from ownership
 
 ::::: columns
-::: {.column width="58%"}
-- The incentive problem arises because employees bear the costs of exerting effort while much of the gains go to the owners… why not sell employees their output? Both cost and benefits are internalized by employees → better incentive coordination Example cont: the firm could sell the employee the rights to the value of his output (\$100e) at the price of \$1.500 (= firms profits!) The employee objective function (eg., personal utility) is 2 U =[ 100e − 1500 ]− e
-  - The employee thus will exert 50 hrs of effort and get the same utility of \$1.000.
-  - The same outcome as in the perfect information case, but it’s achieved even though the employer cannot observe effort
+::: {.column width="45%"}
+
+- Employees bear the cost of effort, while owners receive much of the resulting benefit.
+- Alternatuve: the firm can sell the rights to output for 1,500. The employee then maximizes:
+
+  $$U(e)=100e-1{,}500-e^2.$$
+
+- The employee chooses $e^*=50$ and receives utility of 1,000, even though the firm cannot observe effort.
+
 :::
 
-::: {.column width="42%"}
+::: {.column width="55%"}
 ![](topic-7_files/slide-008-graphics.svg){width="100%"}
 :::
 :::::
 
 ## Incentives from ownership
-- Most of the empirical evidence indicates that managers operate units better after they become owners
-- However, there are some limitations to this solution
-  - Wealth constraints: agent does not have enough personal capital
-  - Risk aversion
-  - Team production: synergies and identification of separate contributions, free-rider problem
+
+- Empirical evidence generally indicates that managers operate business units more effectively after becoming owners.
+- Ownership also has important limitations:
+  - Wealth constraints may prevent an employee from buying the business or its output.
+  - Risk-averse employees may prefer stable income.
+  - Team production makes individual contributions difficult to identify and creates a free-rider problem.
 
 ## Optimal risk sharing
-- Now let focus on the risky nature of the output
-- Making the compensation “output-sensitive” brings risk into the agent’s income
-- Risk aversion: holding expected income constant, the agent prefers less dispersion in outcomes.
+
+- Output is uncertain because it depends on effort and external factors.
+- Output-sensitive compensation transfers some of this uncertainty to the employee's income.
+- A risk-averse employee prefers less variation in income when expected income remains constant.
 
 ## Optimal risk sharing
-- Risk-averse individuals are better off when they reduce the volatility of their income
-- However, people differ in their attitudes toward risk.
-- Even within the same profession: age, health condition, personality, ● reputation.
+
+It is not only about effort, but also about risk aversion:
+
+- Risk-averse employees benefit when they reduce the volatility of their income.
+- Attitudes toward risk differ across people.
+- Age, health, personality, wealth, and reputation can affect an employee's willingness to bear risk.
+- **The more risk-averse the employee, the more compensation is required to bear risk and retain the employee.**
 
 ## Optimal risk sharing
-- Ownership of companies is usually in hands of diversified owners/investors.
-- Because they can diversify their risky income, they care less about firm-specific revenues In contrast, employees have a large fraction of their income in one job.
-- They are not well-diversified, so they care more about firm-specific revenues So, employees have less effective methods (or knowledge) to manage firm- specific risk.
-  - This means that they will bear that risk at a higher price relative to the shareholders
-  - Therefore, from a risk-sharing standpoint, it’s better to pay employees a fixed salary and avoiding to output-sensitive compensation for risk-bearing to attract and retain risk-averse employees.
 
-## Effective Incentive Contracts
-- At this point, it should be clear that compensation contracts serve as 1) motivation mechanism to induce effort 2) risk-sharing agreement But as we have seen, each of these goals leads us to different types of contracts. 1)motivation: less fix salary more output-sensitive compensation 2)risk-sharing: more fix salary and less output-sensitive compensation So we need to find an efficient trade-off: the effective incentive contract. Relevant inputs come from the moral hazard model. With no math. If you want to check the math, look Section 1: https://marceloortizm.com/lecture_accounting_theor y/mora_hazard.html
+- Company owners usually hold diversified investment portfolios, so they are less exposed to firm-specific risk.
+- Employees often receive a large share of their income from one job, which makes them less diversified.
+- Employees therefore require more compensation than diversified shareholders to bear the same firm-specific risk.
+- From a risk-sharing perspective, fixed salaries help firms attract and retain risk-averse employees.
 
-## The efficient contract: factors for output-sensitive comp.
-- 1) The value of output is sensitive to the employee’s effort Salesforce, customer service 2) The employee is not very risk-averse Age, background culture 3) The risk beyond the employee’s control is low Sport couch, tourism 4) Employee’s response to increased incentives is high How much sales would increase if we offer employees a bonus equals 1% of sales? 5) The employee’s output can be measured at a low cost With salesforce it is easy, but what about R&D or brand building?
+## Effective incentive contracts
 
-## Summary
-  - Rewarding employee’s risk exposure +
-  - F i x e d p a y m e n t p e r Larger fixed payment per u n i t o f Q unit of Q Q’s Adding effort incentives observability (bonuses/ownership)
-  - Larger fixed payment per Fixed payment per unit unit of Y + output- of Y + output-sensitive - sensitive comp. comp. - Q’s risk +
-- Notice that if “Q=risk” (just a lottery) there is no need hire anyone.
+- So, **compensation contracts serve two purposes: motivating effort and sharing risk.**
+- Stronger output sensitivity improves incentives but transfers more risk to the employee.
+- A larger fixed component protects the employee from risk but weakens incentives.
+- An effective contract balances these competing objectives.
+- The formal analysis appears in [Section 1 of the moral hazard notes](https://marceloortizm.com/lecture_accounting_theory/mora_hazard.html).
 
-## Summary 1 Q’s observability
-- Case 1: employee’s Q is observable and not risky, then the contracting problem is simple because Q can be incorporated in the contract.
-- -Contract: fixed payment per unit of output Q. Examples:
-- Hair salon’ owner and hairdressers: \$ 10 euros per haircut (of course, the total month salary is variable in the number of haircuts.) Case 2: employee’s Q is not observable and not risky, then Q cannot be written down in the contract, and then the contract needs to induce effort.
-  - Y is a proxy for Q (connection with topic 6: gaming)
-  - Contract: fixed payment per unit of Y + output-sensitive comp. (e.g., bonus per Annual Y)
+## Factors that favor output-sensitive compensation
 
-## Summary 2 Q’s risk
-- Case 3: employee’s Q is not observable and risky: Q=productivity*e+risk ( Important: even though risk could be high, Q still depends on the employee’s effort) - Contract 1: \$ 75 fixed - Contract 2: \$ 50 fixed + (\$0 if output is low or \$50 if output is high)[probabilities conditional on effort: 50%] - In expectation, both contracts lead to the same payment, so a risk-neutral employee would pick either. - However, if the employee is risk averse, then she picks Contract 1. - Therefore, if the company wants the employee to sign the 2nd contract, it has to compensate the employee’ risk exposure by increasing the fixed component in the salary. - For example: Contract 2’: \$ 65 fixed + (\$0 if output is low or \$50 if is high) Conclusion: the higher the Q’s risk or employee’s risk aversion are, the larger the risk- compensation by increasing the fixed component.
+1. Employee effort has a strong effect on the value of output, as in sales or customer service.
+2. The employee is relatively tolerant of risk.
+3. External factors create little output risk.
+4. The employee responds strongly to additional incentives.
+5. The firm can measure output at low cost. Sales are easier to measure than research, development, or brand building.
 
-## Summary
-- Main concepts
-  - Outcome/effort observability
-  - Risk aversion and risk sharing
-  - Efficient contract
-  - Compensation
+## Contract design: observability and risk
+
+Keeping employee's risk aversion and expected income constant:
+
+|                         | Low output risk | High output risk |
+|-------------------------|-----------------|------------------|
+| **Output is observable** | Payment per unit of output $Q$ | A larger fixed component + lower payment per unit of $Q$ |
+| **Output is not observable** | Payment based on a proxy $Y$ (output-sensitive compensation)  | A larger fixed component + less output-sensitive compensation |
+
+- Lower observability increases the need for bonuses, ownership, or other effort incentives.
+- Higher output risk increases the compensation required for bearing risk.
+  - In the extreme case, if $Q$ reflects only random variation and not effort, hiring an employee adds no productive value.
+
+## Output observability
+
+- **Case 1: $Q$ is observable and not risky.** The contract can specify a payment for each unit of output.
+  - Example: a hairdresser receives 10 euros per haircut, so monthly pay varies with the number of haircuts.
+- **Case 2: $Q$ is not observable and not risky.** The firm cannot include $Q$ directly in the contract.
+  - The firm uses an observable proxy, $Y$, for $Q$.
+  - The contract consists on a compensation that depends on $Y$.
+  - Example: Chefs are often paid based on the number of meals served, which is observable and correlated with the quality of the food.
+
+## Output risk
+
+- **Case 3: $Q$ is not observable and is risky.** Output depends on productivity, effort, and random factors:
+
+  $$Q=\text{productivity}\times e+\varepsilon.$$
+
+- Contract 1 pays a fixed amount of 75.
+- Contract 2 pays 50 fixed, plus 50 only when output is high. If high output has a 50% probability, expected pay is also 75.
+  - A risk-neutral employee is indifferent between the contracts, but a risk-averse employee prefers Contract 1.
+- To induce a risk-averse employee to accept Contract 2, the firm must increase its fixed component, for example from 50 to 65.
+- Greater output risk or risk aversion requires more compensation for bearing risk.
+
 
 ## Cases to Discuss
 - Present an real case related to some of the topics of the class.
-  - The case should be based on recent news (<2 years) and preferably related to Spanish companies/cases.
-  - Start the presentation with the context behind the event/decision/case, then identify the relevant concepts, to finally conclude/assess the case.
-  - 10 min, 7-11 slides
-  - Examples:
-  - 1) ownership mechanism: stock compensation programs in Spain/EU
-  - 2) are US CEOs overpaid relative to European CEOs? Compare similar size/industry firms
-  - 3) how technology have improved outcome measurement, and the implications for salaries.
-  - 4) alternative methods for increasing employee’s utility different that monetary compensation.
+- Examples:
+    1. Stock compensation programs in Spain or the European Union.
+    2. Whether US CEOs are overpaid relative to European CEOs at firms of similar size and in similar industries.
+    3. How technology has improved output measurement and affected compensation.
+    4. Nonmonetary methods for increasing employee utility.
+    
+**Questions?**
+
+Check my website for an updated version of this presentation:
+
+[https://www.marceloortizm.com/](https://www.marceloortizm.com)
+
+
