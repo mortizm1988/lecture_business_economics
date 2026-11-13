@@ -33,81 +33,148 @@ from: markdown-smart
 ::: title-meta
 Marcelo Ortiz M.
 :::
-
-## Topic 7: Vertical Integration
-- Objectives
-- 1) Understand what is a vertical chain of production
-- 2) Explain the factors that motivate firms to acquire inputs through non- market transactions
-- 3) Define the term “firm-specific assets” and its consequences in contracting with outside suppliers
-- 4) Understand the differences between vertical integration and long-term contract
-
-## 1. Vertical chain of production Definition
-- As we have discussed before (topics 2 and 3), firms are an economic organization that can reduce contracting costs when they trade (in the production chain).
-- And their relative efficiency depends on how their organize internally: decision right allocation, performance evaluation, compensation (topics 4-7)
-- But, there are still some important questions.
-
-## 1. Vertical chain of production Definition
-- 1) Why do firms differ in their scope in the chain of production?
-- 2) Why do firms trade via both the spot-market and long-term contract market?
-
-## 1. Vertical chain of production Definition
-
-::::: columns
-::: {.column width="58%"}
-- Consists of a series of steps needed for producing the consumer good
-- Steps:
-  - 1) raw material preparation
-  - 2) transportation and storage
-  - 3) intermediate-goods process
-  - 4) transportation and storage
-  - 5) assembling of the consumer good
-  - 6) transportation and storage
-  - 7) retailer distribution and service
+::: title-note
+Department of Economics and Business  
+Universitat Pompeu Fabra
 :::
 
-::: {.column width="42%"}
+## Topic 8: Vertical Integration
+
+Objectives:
+
+1. Describe the vertical chain of production.
+2. Explain why firms acquire inputs through market transactions, contracts, or vertical integration.
+3. Define firm-specific assets and explain their effect on supplier relationships.
+4. Compare vertical integration with long-term contracts.
+
+## Vertical scope and internal organization
+
+- Firms can reduce contracting costs by organizing some stages of production internally rather than relying on market transactions.
+- Their relative efficiency also depends on the allocation of decision rights, performance evaluation, and compensation.
+- Efficient internal design does not determine where the firm's boundaries should lie.
+
+
+## Vertical scope across firms in the same industry 
+
+| Firm | Inputs | Components | Assembly | Distribution | Retail / service |
+|:--|:--:|:--:|:--:|:--:|:--:|
+|Firm A:  **narrow scope** |  | Long-term contract | Internal | Long-term contract |  |
+| Firm B: **broad scope** | Spot market | Internal | Internal | Internal | Internal |
+
+Internal = performed within the firm.  
+Long-term contract = outsourced through a continuing agreement.  
+Spot market = purchased through ordinary market transactions.
+
+1. Why do firms in the same industry choose different vertical scopes?
+2. How do they govern the stages that remain outside the firm?
+
+## The vertical chain of production
+
+Ingredients → dough/sauce processing → distribution to stores → pizza preparation → ordering platform → last-mile delivery
+
+::::: columns
+::: {.column width="55%"}
+
+Domino’s: produces dough internally. However, it purchases nearly all its cheese and most meat toppings from external suppliers. Even orders placed through Apps are delivered by Domino’s drivers. 
+
+Papa Johns: produce dough and distribute ingredients internally. But mozzarella comes from a sole external supplier, while meat products come from a limited group of suppliers. Delivery is hybrid.
+
+:::
+
+::: {.column width="45%"}
 ![](topic-8_files/slide-005-graphics.svg){width="100%"}
 :::
 :::::
 
-## 2. Vertical Integration and Outsorcing
-- Vertical integration: firms participate directly in more than one successive step in the vertical chain.
-  - Backward/upstream integration
-  - Forward/downstream integration
-- Outsourcing: moving away an activity that was formerly done within the firm (reducing vertical integration)
-  - It can be done via transacting in:
-  - a) the spot market: market transactions
-  - b) long-term contract
+**Key insight:** Vertical integration is not all-or-nothing. Firms can internalize some stages while contracting out others.
 
-## 2. Vertical Integration and Outsorcing
+## Vertical integration and outsourcing
+
+- **Vertical integration** occurs when a firm participates directly in more than one successive stage of the vertical chain.
+  - Backward integration moves the firm upstream toward its suppliers.
+  - Forward integration moves the firm downstream toward distribution or retail.
+- **Outsourcing** transfers an activity previously performed inside the firm to an external provider.
+- Firms can outsource through spot-market transactions or long-term contracts.
+
+
+## Spot-market transactions
+
+### Benefits
+
+1. Competition gives suppliers incentives to reduce production costs and improve quality. Buyers may benefit through lower prices.
+2. Suppliers that serve multiple buyers can achieve economies of scale.
+3. Outsourcing allows a firm to focus on its primary business and preserve its specialization.
+4. Market transactions can prevent inefficient subsidies across divisions within the same firm.
+
+## Costs
+
+- The supplier's incentives may differ from the buyer's interests.
+- Quality, delivery, and investment obligations may be difficult to specify and verify.
+- Renegotiation risk increases when either party makes investments that are specific to the relationship.
+
+![](topic-8_files/slide-008-graphics.svg){width="60%"}
+
+## Vertical integration
+
+### Benefits
+
+1.  Vertical integration can reduce the costs of finding trading partners, negotiating terms, monitoring performance, and enforcing agreements.
+2.  A **firm-specific asset** is substantially more valuable in its current relationship than in its next-best use.
+    -  Specific assets expose the investing party to the **hold-up problem** because the trading partner may renegotiate after the investment occurs.
+
+Examples include:
+
+- A harbor and warehouses built for maritime transportation.
+- Machinery designed to meet one buyer's production specifications.
+- Specialized knowledge developed by consultants for one client.
+
+---
+
+The hold-up problem:
+
+- One party first makes an investment that has limited value outside the relationship.
+- The other party can then demand a lower price or more favorable terms.
+- Pricing and warranty disputes are common examples of this renegotiation risk.
+- Vertical integration places the relevant assets under common ownership and reduces repeated renegotiation risk.
+
+## Other benefits of vertical integration
+
+3. **Quality monitoring:** Buyers may discover defective units long after purchase. Batteries in electronics provide one example. Reputation and warranties can partly mitigate this problem in the spot market.
+4.  **Control of externalities:** Distributors may underinvest in brand reputation, advertising, or after-sales service because other distributors share the benefits.
+5. **Extensive coordination:** Large operations such as railroads may be difficult to coordinate solely through market prices.
+
+---
+
+6. **Market power:** Vertical integration may increase a firm's control over prices. 
+    - Blockchain mining equipment and related services provide one example.
+7. **Taxes:** Different stages of production may face different tax treatments.
+8.  **Regulation:** A regulated firm may integrate an unregulated stage of its business. 
+
+## Long-term agreements
 
 ::::: columns
-::: {.column width="58%"}
-- A) Outsourcing and non-market coordination
+::: {.column width="40%"}
+
+- Outsourcing does not always imply a simple spot-market purchase.
+- A firm can coordinate an external supplier through a **long-term agreements** without acquiring ownership.
+- This arrangement lies between spot-market exchange and full vertical integration.
+
 :::
 
-::: {.column width="42%"}
+::: {.column width="60%"}
 ![](topic-8_files/slide-007-graphics.svg){width="100%"}
 :::
 :::::
 
-## 2. Vertical Integration and Outsorcing
+---
 
 ::::: columns
 ::: {.column width="58%"}
-- B) Outsourcing risks
-:::
 
-::: {.column width="42%"}
-![](topic-8_files/slide-008-graphics.svg){width="100%"}
-:::
-:::::
+- Long-term agreements can specify prices, quantities, and responsibilities over an extended period.
+- They reduce some outsourcing risks without transferring ownership.
+- They remain incomplete because the parties cannot anticipate every future contingency.
 
-## 2. Vertical Integration and Outsorcing
-
-::::: columns
-::: {.column width="58%"}
-- Long-term agreements
 :::
 
 ::: {.column width="42%"}
@@ -115,69 +182,25 @@ Marcelo Ortiz M.
 :::
 :::::
 
-## 3. Transacting in competitive markets vs Integration Benefits of markets
-- 1) Suppliers have incentives to reduce the cost of production (adopt new technologies) or enhance quality. The improvements are passed to buyers in the form of lower prices via market competition
-- 2) Volume generation and scale economies in production
-- 3) Entering a new market reduces the focus on the primary line of business
-  - Specialization and competitive advantage
-- 4) Inefficient subsidization across divisions within the firm
+## Summary
 
-## 3. Transacting in competitive markets vs Integration Benefits of Integration: Contracting costs and specific assets
-- 1) Lower contracting cost: Search of trading partners, negotiating terms and prices, monitoring and enforcing agreements
-  - a) Firm-specific assets and the holdup problem: assets of the business partners that are substantially more valuable in their current use than in their next best alternative use. By integrating them into the company the risk of being used in the second best use is reduced (initially, no property rights!)
-  - Cases:
-  - Location: Harbor and warehouses (Maritime Transportation vs Restaurants)
-  - Production specification: specialized machine tool that depends on suppliers’ decision rights (“designs”),
-  - Human-asset knowledge: hiring specialized consultants services (vs hiring them directly).
+- The vertical chain describes the stages required to produce and deliver a good.
+- Outsourcing moves an activity to an external provider, while vertical integration brings successive stages under common ownership.
+- Firm-specific assets increase the risk of costly renegotiation and hold-up.
+- Long-term contracts reduce some market risks, but incomplete contracts limit their effectiveness.
+- The efficient boundary of the firm depends on the relative costs of markets, contracts, and internal organization.
 
-## 3. Transacting in competitive markets vs Integration Benefits of Integration: Contracting costs and specific assets
-- The Holdup problem
-  - Examples: pricing conflicts, guarantees conflicts
-- Integration solves this problem. No renegotiation needed.
+## Cases to discuss
 
-## 3. Transacting in competitive markets vs Integration Benefits of Integration: Contracting costs and other benefits
-- b) Monitoring quality The buyer might not be able to learn about defective units until long after the purchase: Ex. Batteries in electronics, retailer partners for premium brands. Reputation and warranties can reduce this problem in the spot market. c) Controlling externalities: The free-rider problem among distributors. The buyers (in this case, distributors) have fewer incentives to invest in the brand reputation or customer satisfaction, because they can free-ride other distributors. Ex: Hiring less-skilled employees, shirking on advertising and post-sale service d) Extensive coordination: Complex large-scale operations (railroads) are costly to operate/coordinate via the market-price mechanism
+Possible topics:
 
-## 3. Transacting in competitive markets vs Integration Benefits of Integration: Market Power and Regulation
-- 2) Market power
-  - Market power and vertical integration can increase profits because it allows price setting
-  - Example: Blockchain Mining Equipment and Services
-- 3) Taxes and regulation
-  - Different stages of production can be taxed differently
-  - Firms in regulated industries where profits are restricted can integrate unregulated segments of the business
-  - Fishing companies and fish-based food.
+1. A recent outsourcing decision.
+2. A recent vertical integration decision.
+3. A lease or franchise agreement.
+4. A legal dispute involving a long-term contract.
 
-## 4. Vertical integration vs long-term contracts Benefits of Integration over long-term contract
-- 1) Long-term contracts rely on incomplete contracts
-  - It is impossible for the parties to include in a contract all the possible future contingencies
-  - Ex. changes in consumer preferences, disruptive technologies Contracts are expensive to negotiate
-  - Self-interested parties Contracts are costly to enforce
-  - Ex: lawyers, managerial time.
+**Questions?**
 
-## 4. Vertical integration vs long-term contracts Benefits of Integration over long-term contract
-- 2) Ownership and investment incentives
-  - Ownership (property rights) allows deciding the residual use of an asset.
-  - Vertical integration keeps the property rights for the relevant assets within one firm, encouraging the firm to invest efficiently in the asset.
-  - Example: assets specificity and gain from investing in holdup problems.
-- Additional factors to consider
-  - Coordination cost in vertical integration; labor regulation and labor union; proprietary information;
+Check my website for an updated version of this presentation:
 
-## 5. Summary
-- Main concepts
-  - Vertical chain of production
-  - Outsourcing
-  - Vertical Integration
-  - Firm-specific assets
-  - Holdup problem
-  - Long- term contract
-
-## 6. Cases to Discuss
-- Present an real case related to some of the topics of the class.
-  - The case should be based on recent news (<2 years) and preferably related to Spanish companies/cases.
-  - Start the presentation with the context behind the event/decision/case, then identify the relevant concepts, to finally conclude/assess the case.
-  - 10 min, 7-11 slides
-  - Examples:
-  - 1) news about cases of outsourcing decision
-  - 2) news about cases of vertical integration decision
-  - 3) news about cases of lease or franchise agreements/contracts
-  - 4) news about legal disputes in long-term contracts
+[https://www.marceloortizm.com/](https://www.marceloortizm.com)
