@@ -120,13 +120,13 @@ Papa Johns: produce dough and distribute ingredients internally. But mozzarella 
 
 1.  Vertical integration can reduce the costs of finding trading partners, negotiating terms, monitoring performance, and enforcing agreements.
 2.  A **firm-specific asset** is substantially more valuable in its current relationship than in its next-best use.
-    -  Specific assets expose the investing party to the **hold-up problem** because the trading partner may renegotiate after the investment occurs.
+    -  such type of assets creates a **hold-up problem** because the trading partner may try renegotiate conditions after the firm-specific investment is done.
 
 Examples include:
 
 - A harbor and warehouses built for maritime transportation.
-- Machinery designed to meet one buyer's production specifications.
-- Specialized knowledge developed by consultants for one client.
+- Electronic company: electronic machine specially designed to meet a client's requirements, and that cannot be used for other clients.
+- Consultaning: specialized client's knowledge developed by consultants that is not transferable to other clients.
 
 ---
 
@@ -139,14 +139,15 @@ The hold-up problem:
 
 ## Other benefits of vertical integration
 
-3. **Quality monitoring:** Buyers may discover defective units long after purchase. Batteries in electronics provide one example. Reputation and warranties can partly mitigate this problem in the spot market.
+3. **Quality monitoring:** Buyers may discover defective units long after purchase. 
+    - e.g., batteries in electronics devices. Reputation and warranties can partly mitigate this problem in the spot market.
 4.  **Control of externalities:** Distributors may underinvest in brand reputation, advertising, or after-sales service because other distributors share the benefits.
 5. **Extensive coordination:** Large operations such as railroads may be difficult to coordinate solely through market prices.
 
 ---
 
 6. **Market power:** Vertical integration may increase a firm's control over prices. 
-    - Blockchain mining equipment and related services provide one example.
+    - e.g., Blockchain mining equipment and related services.
 7. **Taxes:** Different stages of production may face different tax treatments.
 8.  **Regulation:** A regulated firm may integrate an unregulated stage of its business. 
 
@@ -155,9 +156,9 @@ The hold-up problem:
 ::::: columns
 ::: {.column width="40%"}
 
-- Outsourcing does not always imply a simple spot-market purchase.
-- A firm can coordinate an external supplier through a **long-term agreements** without acquiring ownership.
-- This arrangement lies between spot-market exchange and full vertical integration.
+- Outsourcing does not always imply a simple spot-market transaction.
+- A firm can coordinate with a client/supplier through a **long-term agreements** without requiring vertical integration.
+- This arrangement lies between spot-market exchange and vertical integration.
 
 :::
 
@@ -186,7 +187,7 @@ The hold-up problem:
 
 - The vertical chain describes the stages required to produce and deliver a good.
 - Outsourcing moves an activity to an external provider, while vertical integration brings successive stages under common ownership.
-- Firm-specific assets increase the risk of costly renegotiation and hold-up.
+- Firm-specific assets increase the risk of costly renegotiation and hold-up conflicts.
 - Long-term contracts reduce some market risks, but incomplete contracts limit their effectiveness.
 - The efficient boundary of the firm depends on the relative costs of markets, contracts, and internal organization.
 
