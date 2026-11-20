@@ -33,31 +33,39 @@ from: markdown-smart
 ::: title-meta
 Marcelo Ortiz M.
 :::
+::: title-note
+Department of Economics and Business  
+Universitat Pompeu Fabra
+:::
 
 ## Topic 9: Corporate Ownership and Governance
 
 - Earlier topics examined organizational efficiency through transaction costs and the principal-agent model.
 - They focused on managerial choices such as decision rights, performance evaluation, compensation, integration, and outsourcing.
 - This topic examines how corporate ownership affects organizational efficiency.
-- Unlike many internal design choices, ownership structure partly reflects equilibrium in the market for corporate control.
+    - big difference: this structure is a market outcome, not part of managerial design.
 
-## Corporate property rights
+## 1. Corporate property rights
+
+### Private property
 
 - Private property combines decision authority with the wealth effects of those decisions.
 - Alienability allows owners to transfer resources to people who expect to manage them more productively.
 - In corporations, shareholders can sell their stakes and transfer ownership rights to other investors.
 
-## Diffuse ownership and agency costs
+---
 
-- Public corporations often have more dispersed ownership than companies managed by a sole owner.
+### Diffuse ownership and agency costs
+
+- Public corporations often have more dispersed ownership than private companies run by a sole owner.
 - Shareholders delegate decision rights to managers.
 - No single shareholder may own enough shares to justify the cost of monitoring management closely.
 - Agency costs arise when managers pursue their own interests rather than those of shareholders.
 
-## The monitoring free-rider problem
+---
 
 - Under diffuse ownership, one shareholder bears the full cost of monitoring but receives only a fraction of the benefit.
-- Suppose monitoring costs 100 dollars, increases company income by 200 dollars, and the monitoring shareholder owns 20% of the shares.
+- Suppose monitoring costs 100 dollars, increases company net income by 200 dollars, and the monitoring shareholder owns 20% of the shares.
 
   $$\text{Private benefit}=0.20\times 200=40.$$
 
@@ -65,6 +73,8 @@ Marcelo Ortiz M.
 
 - The shareholder will not monitor because the private cost exceeds the private benefit.
 - A larger ownership stake increases the incentive to monitor.
+
+---
 
 ## Blockholders and corporate oversight
 
@@ -76,7 +86,7 @@ Marcelo Ortiz M.
 ## Ownership concentration
 
 ::::: columns
-::: {.column width="58%"}
+::: {.column width="40%"}
 
 - Ownership concentration determines how strongly individual shareholders benefit from monitoring.
 - Larger stakes increase both the incentive and the ability to influence management.
@@ -84,7 +94,7 @@ Marcelo Ortiz M.
 
 :::
 
-::: {.column width="42%"}
+::: {.column width="60%"}
 ![](topic-9_files/slide-007-graphics.svg){width="100%"}
 :::
 :::::
@@ -92,7 +102,7 @@ Marcelo Ortiz M.
 ## Types of blockholders
 
 ::::: columns
-::: {.column width="58%"}
+::: {.column width="40%"}
 
 - Blockholders differ in identity, objectives, and investment horizon.
 - The figure classifies shareholders that own more than 5% of a company's shares.
@@ -100,12 +110,16 @@ Marcelo Ortiz M.
 
 :::
 
-::: {.column width="42%"}
+::: {.column width="60%"}
 ![](topic-9_files/slide-008-graphics.svg){width="100%"}
 :::
 :::::
 
-## Methods used by activist investors
+---
+
+### Relevant subcategory: Investor Activists
+
+Methods used by activist investors:
 
 - **Proxy contests:** Activists seek board representation by persuading other shareholders to support their nominees.
 - **Public campaigns:** Activists criticize management decisions publicly to build support and increase pressure.
@@ -113,40 +127,42 @@ Marcelo Ortiz M.
 - **Litigation:** Activists use legal action to enforce shareholder rights or challenge management practices.
 - **Direct negotiation:** Activists engage privately with directors and managers.
 
-## Objectives of activist campaigns
+---
+
+Objectives of activist campaigns:
 
 - **Financial performance:** Campaigns may seek cost reductions, restructuring, or changes in capital allocation.
 - **Corporate strategy:** Activists may advocate for acquisitions, divestitures, or changes in business focus.
 - **Governance reform:** Campaigns may target board composition, executive compensation, or management accountability.
 - **ESG objectives:** Some campaigns promote environmental or social goals and related governance changes.
 
-## Shareholder activism
+---
 
 ::::: columns
-::: {.column width="58%"}
+::: {.column width="40%"}
 
 - Activist investors acquire ownership stakes and use their shareholder rights to press for change.
 - Their influence can operate through private engagement or public campaigns.
 
 :::
 
-::: {.column width="42%"}
+::: {.column width="60%"}
 ![](topic-9_files/slide-011-graphics.svg){width="100%"}
 :::
 :::::
 
-## Activist campaign at Norfolk Southern
+---
 
 ::::: columns
-::: {.column width="58%"}
+::: {.column width="40%"}
 
-- In the example shown, an activist investor nominated seven directors to the company's board.
+- An activist investor nominated seven directors to the company's board.
 - The investor also urged the company to replace then-CEO Alan Shaw.
-- The campaign argued that new leadership would improve financial and operational performance.
+- The campaign argued that new leadership would improve financial performance.
 
 :::
 
-::: {.column width="42%"}
+::: {.column width="60%"}
 ![](topic-9_files/slide-012-graphics.svg){width="100%"}
 :::
 :::::
@@ -154,42 +170,50 @@ Marcelo Ortiz M.
 ## Shareholder support and campaign outcomes
 
 ::::: columns
-::: {.column width="58%"}
+::: {.column width="40%"}
 
 - Activist campaigns often combine public pressure with private engagement.
 - Their outcomes depend on support from other shareholders and the board's response.
 
 :::
 
-::: {.column width="42%"}
+::: {.column width="60%"}
 ![](topic-9_files/slide-013-graphics.svg){width="100%"}
 :::
 :::::
 
-## Conflicting blockholder objectives
+## 2. Potential costs of blockholder ownership 
 
-- Blockholders can reduce managerial agency costs but create conflicts with smaller shareholders.
-- Activist funds, index funds, and individual investors may pursue different objectives.
-- Competing blockholders can expend resources pressuring managers to favor their preferred policies.
-- Multiple large owners may also face coordination problems when making collective decisions.
+1. Conflicting blockholder objectives:
+    - Blockholders can reduce managerial agency costs but create conflicts with smaller shareholders.
+        - Activist funds, index funds, and individual investors may pursue different objectives.
+    - Competing blockholders can expend resources pressuring managers to favor their preferred policies.
+    - Multiple large owners may also face coordination problems when making collective decisions.
 
-## Private benefits and tunneling
+--- 
 
-- **Private benefits of control** arise when a blockholder uses corporate resources for personal gain.
-- **Tunneling** transfers assets or profits to other companies controlled by the blockholder.
-- Related-party transactions can concentrate benefits with the controlling shareholder while leaving costs with minority shareholders.
+2.  Private benefits and tunneling
+    - **Private benefits of control** arise when a blockholder uses corporate resources for personal gain.
+    - **Tunneling** transfers assets or profits to other companies controlled by the blockholder.
+    - Related-party transactions can concentrate benefits with the controlling shareholder while leaving costs with minority shareholders.
 
-## Blockholder entrenchment
+---
 
-- Long-standing blockholders may resist changes in management or strategy that threaten their influence or private benefits.
-- Board representatives connected to a blockholder can reduce the board's independence and objectivity.
+3. Blockholder entrenchment
+    - Long-standing blockholders may resist changes in management or strategy that threaten their influence or private benefits.
+    - Board representatives connected to a blockholder can reduce the board's independence and objectivity.
+4. Short-termism
+    - Focus on Immediate Returns: Some blockholders, especially activist investors, may push for short-term measures (e.g., stock buybacks or dividend payouts) that boost immediate returns at the expense of long-term value creation.
+    - Investors that rely on exit may prioritize share liquidity or short-term price increases over improvements in underlying performance.
 
-## Short-termism
+---
 
-- Some blockholders may favor stock buybacks, dividend payouts, or other measures that increase immediate returns at the expense of long-term value.
-- Investors that rely on exit may prioritize share liquidity or short-term price increases over improvements in underlying performance.
+5. Market-level costs
+    - Reduced Market Liquidity: Large ownership blocks can reduce the number of shares available for trading and lower market liquidity.
+    - Barriers to Entry: Dominant blockholders may discourage new investors or management teams from entering, which can limit innovation and competition.
 
-## Market-level costs
+ **Questions?**
 
-- Large ownership blocks can reduce the number of shares available for trading and lower market liquidity.
-- Dominant blockholders may discourage new investors or management teams from entering, which can limit innovation and competition.
+Check my website for an updated version of this presentation:
+
+[https://www.marceloortizm.com/](https://www.marceloortizm.com)
